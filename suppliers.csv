@@ -1,0 +1,13 @@
+supplier_id,supplier_name,country,supplier_type,rating,payment_terms
+S001,USS Auction Tokyo,Japan,Auction,4.6,Prepaid
+S002,HAA Kobe Auction,Japan,Auction,4.4,Prepaid
+S003,JU Nagoya,Japan,Auction,4.3,Prepaid
+S004,Be Forward Exports,Japan,Exporter,4.1,LC 30 days
+S005,SBT Japan,Japan,Exporter,4.2,Prepaid
+S006,Autorec Japan,Japan,Exporter,3.9,Prepaid
+S007,Manchester Prestige Cars,United Kingdom,Dealer,4.5,Bank Transfer
+S008,Hartwell Motor Exports,United Kingdom,Exporter,4.0,Bank Transfer
+S009,Dubizzle Motors FZE,United Arab Emirates,Exporter,3.8,LC 30 days
+S010,Al Futtaim Pre-Owned,United Arab Emirates,Dealer,4.4,Bank Transfer
+S011,Siam Auto Trading,Thailand,Exporter,4.0,Prepaid
+S012,Cape Motor Group,South Africa,Dealer,4.1,Bank Transfer

@@ -1,0 +1,31 @@
+model_id,make,model,body_type,fuel_type,engine_cc,transmission,origin_country,base_fob_price_usd
+M001,Toyota,Land Cruiser Prado,SUV,Diesel,2800,Automatic,Japan,21000
+M002,Toyota,Harrier,SUV,Petrol,2000,Automatic,Japan,11500
+M003,Toyota,Axio,Sedan,Petrol,1500,Automatic,Japan,5200
+M004,Toyota,Fielder,Station Wagon,Petrol,1500,Automatic,Japan,5000
+M005,Toyota,Hilux Double Cab,Pickup,Diesel,2400,Manual,Japan,14500
+M006,Toyota,Vitz,Hatchback,Petrol,1000,Automatic,Japan,3300
+M007,Toyota,Passo,Hatchback,Petrol,1000,Automatic,Japan,3100
+M008,Toyota,Noah,Minivan,Petrol,2000,Automatic,Japan,7800
+M009,Nissan,X-Trail,SUV,Petrol,2000,Automatic,Japan,7600
+M010,Nissan,Note,Hatchback,Petrol,1200,Automatic,Japan,3900
+M011,Nissan,Juke,SUV,Petrol,1500,Automatic,Japan,5600
+M012,Subaru,Forester,SUV,Petrol,2000,Automatic,Japan,8200
+M013,Subaru,Impreza,Sedan,Petrol,1600,Automatic,Japan,5800
+M014,Mazda,CX-5,SUV,Diesel,2200,Automatic,Japan,12800
+M015,Mazda,Demio,Hatchback,Petrol,1300,Automatic,Japan,3600
+M016,Honda,Fit,Hatchback,Hybrid,1300,Automatic,Japan,4300
+M017,Honda,Vezel,SUV,Hybrid,1500,Automatic,Japan,8900
+M018,Mitsubishi,Outlander,SUV,Petrol,2400,Automatic,Japan,8400
+M019,Suzuki,Swift,Hatchback,Petrol,1200,Automatic,Japan,4100
+M020,Land Rover,Range Rover Sport,SUV,Diesel,3000,Automatic,United Kingdom,34000
+M021,Land Rover,Discovery 4,SUV,Diesel,3000,Automatic,United Kingdom,19500
+M022,Mercedes-Benz,C200,Sedan,Petrol,1500,Automatic,United Kingdom,14800
+M023,BMW,X5,SUV,Diesel,3000,Automatic,United Kingdom,24500
+M024,Volkswagen,Golf,Hatchback,Petrol,1400,Manual,United Kingdom,7900
+M025,Toyota,Land Cruiser V8,SUV,Diesel,4500,Automatic,United Arab Emirates,42000
+M026,Lexus,RX 350,SUV,Petrol,3500,Automatic,United Arab Emirates,26000
+M027,Nissan,Patrol,SUV,Petrol,4000,Automatic,United Arab Emirates,29000
+M028,Isuzu,D-Max,Pickup,Diesel,3000,Manual,Thailand,15500
+M029,Toyota,Fortuner,SUV,Diesel,2800,Automatic,Thailand,23500
+M030,Ford,Ranger,Pickup,Diesel,3200,Automatic,South Africa,24500

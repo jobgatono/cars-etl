@@ -1,0 +1,1633 @@
+review_id,order_id,customer_id,review_date,rating,review_text,source
+REV00001,ORD00001,C00957,2025-06-05,4,Good communication throughout the shipping.,Website
+REV00002,ORD00003,C00877,2024-01-24,5,Smooth process from order to delivery.,WhatsApp
+REV00003,ORD00004,C00619,2026-06-02,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV00004,ORD00005,C00051,2024-05-17,4,Fair price compared to other importers.,Website
+REV00005,ORD00006,C00943,2025-02-26,4,Smooth process from order to delivery.,Email Survey
+REV00006,ORD00007,C00085,2025-05-09,5,Good communication throughout the shipping.,Facebook
+REV00007,ORD00009,C00027,2023-12-09,3,Price was fair but a few scratches not mentioned.,WhatsApp
+REV00008,ORD00012,C00182,2024-05-25,5,"Car arrived in great condition, exactly as described.",Google
+REV00009,ORD00013,C00700,2026-06-20,4,Fair price compared to other importers.,Google
+REV00010,ORD00015,C00037,2024-04-20,3,"Fine overall, would have liked more updates. Cause given: transshipment delay.",WhatsApp
+REV00011,ORD00016,C01147,2024-11-04,3,"Decent car, paperwork took a while at KRA.",Google
+REV00012,ORD00018,C00039,2026-10-13,2,"Had to pay extra at port, was not told upfront. Cause given: port congestion.",Website
+REV00013,ORD00019,C00824,2025-12-15,1,"Waited too long for registration, very frustrating.",WhatsApp
+REV00014,ORD00020,C00192,2023-11-30,5,Good communication throughout the shipping.,Facebook
+REV00015,ORD00021,C00302,2025-06-25,4,Fair price compared to other importers.,Website
+REV00016,ORD00023,C01044,2025-07-11,4,Smooth process from order to delivery.,Facebook
+REV00017,ORD00024,C00094,2024-12-14,4,Smooth process from order to delivery. Ni gari safi sana.,Email Survey
+REV00018,ORD00025,C00144,2023-06-26,3,"Fine overall, would have liked more updates.",WhatsApp
+REV00019,ORD00026,C00718,2025-05-02,5,Mileage matched the auction sheet. Honest dealer. Sio mbaya.,Facebook
+REV00020,ORD00032,C00381,2025-02-27,4,"Car arrived in great condition, exactly as described.",Google
+REV00021,ORD00035,C01015,2024-06-20,5,"Car arrived in great condition, exactly as described.",Website
+REV00022,ORD00036,C00409,2024-10-19,4,Fair price compared to other importers.,Email Survey
+REV00023,ORD00037,C00628,2026-02-24,5,Good communication throughout the shipping.,Facebook
+REV00024,ORD00040,C00465,2025-06-22,4,"Car arrived in great condition, exactly as described. Sio mbaya.",Email Survey
+REV00025,ORD00041,C00811,2023-10-24,2,"AC faulty on delivery, still waiting for a fix.",Facebook
+REV00026,ORD00042,C00168,2025-01-18,2,Mileage seems higher than on the auction sheet.,WhatsApp
+REV00027,ORD00044,C00419,2024-10-14,4,"Very happy with the Isuzu D-Max, runs perfectly. Asante sana!",Google
+REV00028,ORD00046,C00838,2024-12-09,4,Fair price compared to other importers.,Website
+REV00029,ORD00047,C00522,2025-12-04,3,Price was fair but a few scratches not mentioned. Cause given: customs inspection.,Email Survey
+REV00030,ORD00049,C00956,2026-03-05,3,"Decent car, paperwork took a while at KRA.",Website
+REV00031,ORD00050,C00204,2023-11-05,5,Good communication throughout the shipping.,Google
+REV00032,ORD00051,C00091,2024-09-20,1,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00033,ORD00054,C00021,2024-05-08,3,"Decent car, paperwork took a while at KRA.",Google
+REV00034,ORD00055,C00856,2025-11-09,3,Price was fair but a few scratches not mentioned.,Website
+REV00035,ORD00060,C00771,2025-01-26,5,Smooth process from order to delivery.,Facebook
+REV00036,ORD00061,C00685,2026-11-03,3,Car is okay but delivery took longer than quoted. Cause given: customs inspection.,WhatsApp
+REV00037,ORD00065,C01075,2024-08-24,3,"Decent car, paperwork took a while at KRA.",WhatsApp
+REV00038,ORD00068,C00480,2024-06-08,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00039,ORD00072,C00490,2026-02-21,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV00040,ORD00073,C00610,2026-08-02,1,"Had to pay extra at port, was not told upfront.",WhatsApp
+REV00041,ORD00075,C01075,2026-06-19,5,Good communication throughout the shipping.,Website
+REV00042,ORD00076,C01091,2025-11-29,5,Mileage matched the auction sheet. Honest dealer. Ni gari safi sana.,Email Survey
+REV00043,ORD00077,C00022,2025-02-20,4,Fair price compared to other importers.,Google
+REV00044,ORD00079,C00840,2024-05-01,5,"Very happy with the Nissan Note, runs perfectly.",Website
+REV00045,ORD00080,C00599,2024-03-05,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00046,ORD00082,C00280,2025-09-18,5,Good communication throughout the shipping.,Google
+REV00047,ORD00087,C01087,2026-01-07,5,Good communication throughout the shipping.,Google
+REV00048,ORD00088,C00300,2024-09-30,5,,Website
+REV00049,ORD00089,C00318,2023-08-19,4,Smooth process from order to delivery.,Website
+REV00050,ORD00091,C00262,2026-09-13,5,Fair price compared to other importers.,Google
+REV00051,ORD00092,C00422,2026-05-12,4,Good communication throughout the shipping.,Website
+REV00052,ORD00093,C00213,2026-09-24,2,Mileage seems higher than on the auction sheet.,Google
+REV00053,ORD00094,C00699,2024-05-03,5/5,Smooth process from order to delivery.,WhatsApp
+REV00054,ORD00095,C00176,2025-06-17,2,"Waited too long for registration, very frustrating.",Google
+REV00055,ORD00096,C00703,2025-12-02,3,"Decent car, paperwork took a while at KRA.",WhatsApp
+REV00056,ORD00097,C00182,2025-02-19,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00057,ORD00098,C00051,2024-12-10,3,Price was fair but a few scratches not mentioned.,Website
+REV00058,ORD00099,C00626,2026-05-12,3,"Decent car, paperwork took a while at KRA.",Website
+REV00059,ORD00101,C00824,2025-10-31,3/5,"Decent car, paperwork took a while at KRA.",Email Survey
+REV00060,ORD00103,C00498,2025-05-22,4,,Google
+REV00061,ORD00104,C00395,2025-08-09,3,Car is okay but delivery took longer than quoted.,Facebook
+REV00062,ORD00106,C00196,2023-12-13,5,Good communication throughout the shipping.,WhatsApp
+REV00063,ORD00108,C00771,2026-03-11,1,"Shipping delayed by weeks, no updates from the sales team.",Google
+REV00064,ORD00109,C00334,2025-06-09,5,Good communication throughout the shipping.,Google
+REV00065,ORD00114,C01013,2026-01-06,5,Fair price compared to other importers.,Facebook
+REV00066,ORD00117,C00992,2025-07-29,3,"Decent car, paperwork took a while at KRA.",Website
+REV00067,ORD00118,C00851,2024-02-13,4,Good communication throughout the shipping.,Website
+REV00068,ORD00119,C01111,2023-12-20,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV00069,ORD00121,C00540,2025-12-11,4,Good communication throughout the shipping.,Website
+REV00070,ORD00122,C00950,2024-05-23,5,Smooth process from order to delivery.,Email Survey
+REV00071,ORD00130,C00851,2023-12-10,4,"Very happy with the Toyota Axio, runs perfectly.",Website
+REV00072,ORD00133,C00645,2025-08-28,4,Fair price compared to other importers.,Facebook
+REV00073,ORD00134,C00639,2024-05-20,1,"Waited too long for registration, very frustrating.",Website
+REV00074,ORD00135,C01129,2023-08-16,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00075,ORD00136,C00790,2024-08-28,5/5,Smooth process from order to delivery.,WhatsApp
+REV00076,ORD00137,C00343,2024-12-16,1/5,"AC faulty on delivery, still waiting for a fix.",Website
+REV00077,ORD00138,C00782,2026-02-04,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV00078,ORD00140,C00714,2024-03-20,5,"Very happy with the Toyota Harrier, runs perfectly.",Website
+REV00079,ORD00141,C00142,2025-09-27,5,"Car arrived in great condition, exactly as described.",Website
+REV00080,ORD00142,C01008,2025-06-21,2,"AC faulty on delivery, still waiting for a fix. Cause given: vessel rescheduled.",Email Survey
+REV00081,ORD00143,C00301,2024-04-01,5,Fair price compared to other importers. Sio mbaya.,Google
+REV00082,ORD00145,C00856,2025-09-13,4,"Very happy with the Toyota Hilux Double Cab, runs perfectly. Ni gari safi sana.",Facebook
+REV00083,ORD00149,C00988,2026-01-30,5,Fair price compared to other importers.,Email Survey
+REV00084,ORD00150,C01012,2024-11-25,4,Smooth process from order to delivery.,Website
+REV00085,ORD00152,C01122,2023-10-18,4,Good communication throughout the shipping. Poa kabisa.,Website
+REV00086,ORD00155,C00762,2025-08-27,5,Fair price compared to other importers.,Google
+REV00087,ORD00156,C00529,2026-01-23,4,"Very happy with the Mazda CX-5, runs perfectly.",Email Survey
+REV00088,ORD00157,C00943,2026-01-07,3,"Decent car, paperwork took a while at KRA. Cause given: transshipment delay.",WhatsApp
+REV00089,ORD00159,C00545,2026-03-30,4,Fair price compared to other importers.,Google
+REV00090,ORD00160,C00381,2026-03-06,4,Fair price compared to other importers.,Email Survey
+REV00091,ORD00161,C00480,2024-07-11,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00092,ORD00164,C00257,2024-06-13,3,Car is okay but delivery took longer than quoted.,Website
+REV00093,ORD00165,C00651,2024-10-27,1,"Waited too long for registration, very frustrating. Cause given: kra system downtime.",Website
+REV00094,ORD00168,C00333,2025-08-02,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00095,ORD00170,C00032,2024-04-10,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV00096,ORD00173,C00268,2025-04-04,4,Fair price compared to other importers.,Email Survey
+REV00097,ORD00178,C00241,2026-10-19,4,Good communication throughout the shipping.,Email Survey
+REV00098,ORD00179,C01181,2026-09-08,1,,Google
+REV00099,ORD00180,C00261,2025-06-19,4,"Very happy with the Nissan Note, runs perfectly.",Google
+REV00100,ORD00182,C01015,2024-05-22,3,Price was fair but a few scratches not mentioned. Cause given: transshipment delay.,Email Survey
+REV00101,ORD00183,C00630,2026-02-15,5,Fair price compared to other importers.,Google
+REV00102,ORD00187,C00543,2025-10-26,3,"Fine overall, would have liked more updates.",Email Survey
+REV00103,ORD00189,C01079,2025-10-12,5,"Very happy with the Subaru Impreza, runs perfectly.",Facebook
+REV00104,ORD00191,C00827,2025-08-25,4,Smooth process from order to delivery.,Facebook
+REV00105,ORD00192,C00398,2026-05-26,5,Fair price compared to other importers.,Google
+REV00106,ORD00195,C00053,2026-09-10,5,Fair price compared to other importers.,Google
+REV00107,ORD00198,C00878,2023-07-25,1,"Shipping delayed by weeks, no updates from the sales team.",Facebook
+REV00108,ORD00199,C00720,2024-12-20,5,"Very happy with the Toyota Land Cruiser Prado, runs perfectly.",Google
+REV00109,ORD00201,C00021,2025-10-15,3,Car is okay but delivery took longer than quoted.,WhatsApp
+REV00110,ORD00202,C00476,2024-06-06,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00111,ORD00203,C00650,2023-10-23,4,Smooth process from order to delivery.,Google
+REV00112,ORD00207,C00626,2026-02-09,3,Car is okay but delivery took longer than quoted. Ni gari safi sana.,Facebook
+REV00113,ORD00208,C00640,2023-11-27,5,"Car arrived in great condition, exactly as described.",Google
+REV00114,ORD00210,C00213,2026-08-09,4,"Very happy with the Lexus RX 350, runs perfectly.",WhatsApp
+REV00115,ORD00211,C01094,2024-06-26,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00116,ORD00212,C00444,2026-03-22,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00117,ORD00213,C00132,2023-05-03,4,Fair price compared to other importers.,Facebook
+REV00118,ORD00214,C00589,2025-07-06,2,"Had to pay extra at port, was not told upfront.",Google
+REV00119,ORD00215,C00024,2025-09-02,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00120,ORD00219,C00085,2026-06-16,2,Mileage seems higher than on the auction sheet. Cause given: bad weather.,Facebook
+REV00121,ORD00220,C00305,2025-12-21,4,"  Car arrived in great condition, exactly as described.  ",Email Survey
+REV00122,ORD00226,C01052,2023-08-30,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00123,ORD00228,C01074,2026-09-29,4,Fair price compared to other importers. Sio mbaya.,Google
+REV00124,ORD00229,C01197,2023-07-04,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV00125,ORD00231,C00198,2025-01-31,3,Price was fair but a few scratches not mentioned.,Website
+REV00126,ORD00233,C00851,2025-07-17,4,"Very happy with the Toyota Vitz, runs perfectly.",WhatsApp
+REV00127,ORD00237,C00052,2023-11-09,5,"Car arrived in great condition, exactly as described.",Website
+REV00128,ORD00238,C00583,2025-12-26,2,"Shipping delayed by weeks, no updates from the sales team.",Google
+REV00129,ORD00239,C01168,2024-11-13,4,Fair price compared to other importers.,Facebook
+REV00130,ORD00240,C00456,2024-09-24,4,Fair price compared to other importers.,Google
+REV00131,ORD00241,C00896,2025-04-28,4,"Car arrived in great condition, exactly as described.",Website
+REV00132,ORD00242,C00650,2026-02-24,4,"Very happy with the Nissan Note, runs perfectly.",WhatsApp
+REV00133,ORD00243,C00255,2024-11-21,2,Mileage seems higher than on the auction sheet. Ni gari safi sana.,Website
+REV00134,ORD00244,C00313,2026-04-11,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00135,ORD00246,C00033,2024-01-05,1,"Had to pay extra at port, was not told upfront.",Website
+REV00136,ORD00247,C00221,2026-11-04,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00137,ORD00248,C00702,2026-03-14,1,"Had to pay extra at port, was not told upfront. Cause given: vessel rescheduled.",Website
+REV00138,ORD00251,C00342,2025-05-18,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00139,ORD00252,C00487,2025-11-25,5,Good communication throughout the shipping.,Facebook
+REV00140,ORD00254,C00618,2024-04-16,3,Price was fair but a few scratches not mentioned.,Facebook
+REV00141,ORD00255,C00590,2025-01-31,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00142,ORD00257,C00595,2025-07-28,1,"Had to pay extra at port, was not told upfront.",Website
+REV00143,ORD00259,C00144,2026-02-24,1,"Had to pay extra at port, was not told upfront.",WhatsApp
+REV00144,ORD00262,C00418,2025-05-04,1,"Shipping delayed by weeks, no updates from the sales team. Cause given: documentation error.",Google
+REV00145,ORD00263,C00721,2025-01-05,1,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00146,ORD00264,C00042,2025-01-08,3,"Decent car, paperwork took a while at KRA.",Google
+REV00147,ORD00265,C00120,2025-08-21,1,Mileage seems higher than on the auction sheet. Cause given: kra system downtime.,Facebook
+REV00148,ORD00268,C00210,2026-04-11,3,"Decent car, paperwork took a while at KRA.",Google
+REV00149,ORD00269,C00199,2025-11-01,4,"Car arrived in great condition, exactly as described.",Website
+REV00150,ORD00273,C00456,2023-04-14,4,"Very happy with the Nissan Note, runs perfectly.",Email Survey
+REV00151,ORD00277,C00143,2024-08-10,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV00152,ORD00278,C00153,2025-01-18,4,"Car arrived in great condition, exactly as described.",Google
+REV00153,ORD00280,C00234,2025-08-04,3,Price was fair but a few scratches not mentioned.,Website
+REV00154,ORD00284,C00835,2024-10-09,4,Mileage matched the auction sheet. Honest dealer. Sio mbaya.,Email Survey
+REV00155,ORD00285,C00318,2025-09-18,5,Fair price compared to other importers.,WhatsApp
+REV00156,ORD00286,C00288,2026-07-17,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00157,ORD00288,C00684,2024-06-06,1,"Had to pay extra at port, was not told upfront.",Facebook
+REV00158,ORD00291,C01132,2025-02-04,5,Good communication throughout the shipping.,WhatsApp
+REV00159,ORD00292,C00010,2026-06-04,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV00160,ORD00293,C00686,2025-06-25,4,"  Very happy with the Toyota Passo, runs perfectly.  ",Website
+REV00161,ORD00294,C00928,2025-03-26,4,Smooth process from order to delivery.,Website
+REV00162,ORD00296,C00363,2024-08-13,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00163,ORD00297,C00275,2025-01-02,5,Smooth process from order to delivery.,WhatsApp
+REV00164,ORD00302,C00120,2025-09-09,2,"Had to pay extra at port, was not told upfront. Cause given: transshipment delay.",Website
+REV00165,ORD00303,C00846,2026-02-21,2,"Shipping delayed by weeks, no updates from the sales team.",Google
+REV00166,ORD00305,C00132,2025-08-08,4,"Very happy with the Nissan X-Trail, runs perfectly. Sio mbaya.",Website
+REV00167,ORD00307,C01065,2024-04-01,3,"Fine overall, would have liked more updates.",Google
+REV00168,ORD00310,C01168,2025-06-18,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00169,ORD00311,C00205,2026-01-18,5,Fair price compared to other importers.,Website
+REV00170,ORD00312,C00962,2023-08-13,4,Smooth process from order to delivery.,Facebook
+REV00171,ORD00313,C00877,2026-05-03,3,Car is okay but delivery took longer than quoted. Cause given: customs inspection.,Facebook
+REV00172,ORD00317,C00214,2023-11-15,5,"Very happy with the Isuzu D-Max, runs perfectly. Poa kabisa.",WhatsApp
+REV00173,ORD00318,C00142,2025-07-27,5,"Car arrived in great condition, exactly as described.",Website
+REV00174,ORD00323,C00306,2023-12-19,4,"Very happy with the Toyota Harrier, runs perfectly.",WhatsApp
+REV00175,ORD00324,C00845,2026-02-01,4,"Very happy with the Subaru Impreza, runs perfectly.",Website
+REV00176,ORD00325,C01152,2023-10-05,4,"Car arrived in great condition, exactly as described.",Website
+REV00177,ORD00326,C00879,2023-12-25,2/5,Mileage seems higher than on the auction sheet.,Google
+REV00178,ORD00329,C00813,2024-07-30,3,Price was fair but a few scratches not mentioned.,Website
+REV00179,ORD00330,C00732,2024-10-15,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00180,ORD00332,C00526,2023-08-10,1,"  Shipping delayed by weeks, no updates from the sales team. Cause given: strike action.  ",WhatsApp
+REV00181,ORD00333,C00685,2025-09-04,5,Good communication throughout the shipping.,Google
+REV00182,ORD00334,C00687,2026-02-19,3,"Fine overall, would have liked more updates. Cause given: transshipment delay.",Website
+REV00183,ORD00339,C00497,2025-06-29,5,"Very happy with the Nissan Note, runs perfectly.",Website
+REV00184,ORD00340,C00392,2026-05-06,5,Good communication throughout the shipping.,Website
+REV00185,ORD00345,C00859,2025-05-14,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00186,ORD00346,C00140,2025-05-17,5,Smooth process from order to delivery.,WhatsApp
+REV00187,ORD00348,C00226,2024-05-01,3,"Decent car, paperwork took a while at KRA. Cause given: customs inspection.",Website
+REV00188,ORD00351,C00752,2026-05-10,1,"Had to pay extra at port, was not told upfront. Cause given: vessel rescheduled.",Email Survey
+REV00189,ORD00353,C00911,2024-05-10,3,Car is okay but delivery took longer than quoted.,Facebook
+REV00190,ORD00356,C00568,2025-07-08,2,"Waited too long for registration, very frustrating. Cause given: documentation error.",WhatsApp
+REV00191,ORD00358,C00539,2024-01-30,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00192,ORD00361,C00272,2023-07-23,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00193,ORD00363,C00348,2024-08-03,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00194,ORD00364,C00639,2025-04-05,5,Smooth process from order to delivery.,Facebook
+REV00195,ORD00367,C00064,2025-05-31,4,"Car arrived in great condition, exactly as described.",Google
+REV00196,ORD00369,C00486,2025-09-13,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00197,ORD00370,C00360,2026-04-05,3,Car is okay but delivery took longer than quoted.,Facebook
+REV00198,ORD00371,C00231,2025-03-02,5,Smooth process from order to delivery.,Google
+REV00199,ORD00375,C01138,2026-05-19,2,,Google
+REV00200,ORD00381,C00501,2025-11-02,1,Mileage seems higher than on the auction sheet. Cause given: documentation error.,Email Survey
+REV00201,ORD00382,C00716,2026-10-16,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV00202,ORD00383,C00728,2026-07-02,5,"Very happy with the Toyota Fielder, runs perfectly.",Website
+REV00203,ORD00384,C00992,2024-08-25,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV00204,ORD00385,C00758,2025-01-29,4,Fair price compared to other importers.,Website
+REV00205,ORD00386,C01031,2026-03-18,1,"Had to pay extra at port, was not told upfront. Sio mbaya.",WhatsApp
+REV00206,ORD00387,C00194,2026-04-14,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV00207,ORD00389,C00631,2023-06-24,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV00208,ORD00392,C00923,2024-08-10,5,"Car arrived in great condition, exactly as described.",Website
+REV00209,ORD00394,C00551,2026-11-04,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00210,ORD00396,C00985,2025-08-29,3,Price was fair but a few scratches not mentioned. Sio mbaya.,Email Survey
+REV00211,ORD00397,C00305,2026-11-04,4,"Very happy with the Nissan Patrol, runs perfectly.",Website
+REV00212,ORD00399,C00024,2026-04-21,5,Smooth process from order to delivery.,Google
+REV00213,ORD00402,C01033,2025-02-17,3,"Decent car, paperwork took a while at KRA. Cause given: vessel rescheduled.",Facebook
+REV00214,ORD00404,C00165,2024-10-21,3,Car is okay but delivery took longer than quoted. Cause given: transshipment delay.,Email Survey
+REV00215,ORD00413,C01085,2024-09-16,5,Smooth process from order to delivery.,Email Survey
+REV00216,ORD00417,C00809,2025-11-12,5,Fair price compared to other importers.,Google
+REV00217,ORD00419,C00791,2023-11-09,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV00218,ORD00420,C01122,2023-10-18,4,Good communication throughout the shipping.,Website
+REV00219,ORD00421,C00836,2024-01-18,4,"Very happy with the Toyota Vitz, runs perfectly.",Website
+REV00220,ORD00422,C01024,2026-08-15,4,Smooth process from order to delivery.,WhatsApp
+REV00221,ORD00424,C00714,2023-06-27,4,Good communication throughout the shipping.,Email Survey
+REV00222,ORD00425,C00023,2024-04-12,4,"Very happy with the Nissan X-Trail, runs perfectly. Ni gari safi sana.",Google
+REV00223,ORD00428,C00813,2025-05-04,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00224,ORD00429,C00123,2026-07-05,5,"Car arrived in great condition, exactly as described.",Website
+REV00225,ORD00433,C00125,2025-05-22,4,Good communication throughout the shipping.,Facebook
+REV00226,ORD00434,C00462,2026-03-13,3,"Decent car, paperwork took a while at KRA.",WhatsApp
+REV00227,ORD00435,C00490,2026-11-04,5,"Very happy with the Toyota Passo, runs perfectly.",Google
+REV00228,ORD00436,C00262,2025-05-18,5,"Very happy with the Mazda Demio, runs perfectly.",Google
+REV00229,ORD00437,C00599,2026-11-04,4,Fair price compared to other importers.,Email Survey
+REV00230,ORD00438,C00222,2026-04-06,4,"Very happy with the Nissan Note, runs perfectly.",Website
+REV00231,ORD00440,C00703,2024-05-24,3,Price was fair but a few scratches not mentioned.,Website
+REV00232,ORD00441,C00317,2025-09-04,5,Good communication throughout the shipping.,Google
+REV00233,ORD00442,C00608,2024-10-31,4,"Very happy with the Mercedes-Benz C200, runs perfectly.",Facebook
+REV00234,ORD00447,C00905,2024-02-28,1,Mileage seems higher than on the auction sheet. Cause given: transshipment delay.,Website
+REV00235,ORD00448,C00038,2025-01-06,3,Car is okay but delivery took longer than quoted.,Google
+REV00236,ORD00450,C00727,2026-04-03,2,"Waited too long for registration, very frustrating.",Google
+REV00237,ORD00457,C00501,2023-04-12,5,"Car arrived in great condition, exactly as described.",Google
+REV00238,ORD00462,C01113,2026-07-01,5,"Car arrived in great condition, exactly as described.",Google
+REV00239,ORD00468,C00290,2023-08-08,1,"Had to pay extra at port, was not told upfront. Sio mbaya.",Email Survey
+REV00240,ORD00469,C00334,2026-05-21,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00241,ORD00471,C00837,2023-10-27,2,"Shipping delayed by weeks, no updates from the sales team.",Facebook
+REV00242,ORD00473,C00697,2026-06-16,5,Smooth process from order to delivery.,Email Survey
+REV00243,ORD00475,C00390,2025-09-14,3,  Car is okay but delivery took longer than quoted. Cause given: customs inspection.  ,Email Survey
+REV00244,ORD00482,C00959,2025-10-12,2,Mileage seems higher than on the auction sheet. Cause given: transshipment delay. Asante sana!,Email Survey
+REV00245,ORD00483,C00451,2024-10-07,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00246,ORD00484,C01131,2025-12-11,5,"Very happy with the Subaru Impreza, runs perfectly.",Website
+REV00247,ORD00489,C00592,2025-03-06,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00248,ORD00490,C01117,2026-09-17,5,Smooth process from order to delivery.,Email Survey
+REV00249,ORD00491,C00847,2023-08-17,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00250,ORD00493,C00085,2025-06-24,5,Smooth process from order to delivery.,Google
+REV00251,ORD00494,C00659,2024-06-27,5,Fair price compared to other importers.,WhatsApp
+REV00252,ORD00495,C00618,2024-06-11,4,"Car arrived in great condition, exactly as described.",Google
+REV00253,ORD00496,C00991,2026-10-28,3,Car is okay but delivery took longer than quoted.,Website
+REV00254,ORD00497,C01187,2025-11-19,4,Fair price compared to other importers.,Website
+REV00255,ORD00499,C00545,2024-10-20,4,"Car arrived in great condition, exactly as described.",Google
+REV00256,ORD00500,C01015,2023-04-23,1,Mileage seems higher than on the auction sheet. Poa kabisa.,WhatsApp
+REV00257,ORD00501,C00181,2026-10-02,2,Mileage seems higher than on the auction sheet.,Website
+REV00258,ORD00502,C00085,2024-12-07,4,Fair price compared to other importers.,Website
+REV00259,ORD00504,C00433,2026-06-07,4,"Very happy with the Toyota Noah, runs perfectly.",Website
+REV00260,ORD00506,C00754,2026-01-26,5,"Very happy with the Land Rover Discovery 4, runs perfectly.",Website
+REV00261,ORD00507,C00410,2026-02-14,3,"Fine overall, would have liked more updates. Cause given: documentation error.",WhatsApp
+REV00262,ORD00508,C01162,2026-01-18,5,Smooth process from order to delivery.,Google
+REV00263,ORD00510,C00074,2023-09-20,3,"Fine overall, would have liked more updates. Cause given: vessel rescheduled.",Facebook
+REV00264,ORD00512,C00632,2026-11-02,5,Smooth process from order to delivery.,Google
+REV00265,ORD00514,C00720,2025-12-11,5,Smooth process from order to delivery.,Website
+REV00266,ORD00519,C00176,2024-05-21,3,"Decent car, paperwork took a while at KRA. Cause given: strike action.",Website
+REV00267,ORD00521,C01129,2024-12-09,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00268,ORD00522,C00900,2023-08-12,2,"Waited too long for registration, very frustrating. Cause given: bad weather.",Google
+REV00269,ORD00525,C00418,2025-05-12,5,"Very happy with the Nissan Juke, runs perfectly.",Google
+REV00270,ORD00527,C00765,2024-03-24,5,Fair price compared to other importers.,Facebook
+REV00271,ORD00529,C01070,2025-01-04,3,"Decent car, paperwork took a while at KRA.",Google
+REV00272,ORD00531,C00642,2026-11-04,5,"Car arrived in great condition, exactly as described.",Website
+REV00273,ORD00532,C00822,2026-09-20,5,Smooth process from order to delivery.,Facebook
+REV00274,ORD00533,C00951,2023-10-17,3,"Fine overall, would have liked more updates. Cause given: transshipment delay.",Google
+REV00275,ORD00536,C00409,2023-07-07,3,Car is okay but delivery took longer than quoted.,Facebook
+REV00276,ORD00538,C00842,2026-03-03,2,"Waited too long for registration, very frustrating.",Google
+REV00277,ORD00541,C00705,2026-08-02,5,Good communication throughout the shipping.,Facebook
+REV00278,ORD00542,C00630,2024-03-22,5,Good communication throughout the shipping.,Facebook
+REV00279,ORD00552,C01138,2026-06-26,5,,Website
+REV00280,ORD00554,C00642,2026-02-25,4,Fair price compared to other importers.,Email Survey
+REV00281,ORD00555,C00430,2025-10-19,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00282,ORD00558,C00750,2026-10-10,5,"Car arrived in great condition, exactly as described.",Website
+REV00283,ORD00562,C00306,2024-09-18,2,"Waited too long for registration, very frustrating.",Google
+REV00284,ORD00565,C00851,2024-09-29,5,Fair price compared to other importers.,Website
+REV00285,ORD00567,C00189,2025-11-16,5,"Very happy with the Toyota Hilux Double Cab, runs perfectly.",WhatsApp
+REV00286,ORD00568,C00288,2024-10-01,5,"Very happy with the Toyota Vitz, runs perfectly.",Email Survey
+REV00287,ORD00569,C00082,2026-08-13,4,Good communication throughout the shipping.,Website
+REV00288,ORD00570,C00639,2025-09-20,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00289,ORD00571,C00829,2025-09-27,5/5,"Very happy with the Toyota Hilux Double Cab, runs perfectly.",Facebook
+REV00290,ORD00572,C00275,2026-02-10,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00291,ORD00573,C00750,2025-03-26,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00292,ORD00574,C00684,2025-08-01,3,Price was fair but a few scratches not mentioned.,Facebook
+REV00293,ORD00575,C00825,2023-10-01,3,Car is okay but delivery took longer than quoted. Sio mbaya.,Facebook
+REV00294,ORD00577,C00551,2026-04-13,4,Smooth process from order to delivery. Sio mbaya.,Website
+REV00295,ORD00578,C00534,2025-12-04,4,"Very happy with the Toyota Fortuner, runs perfectly.",Google
+REV00296,ORD00580,C01023,2026-05-16,2,"Had to pay extra at port, was not told upfront.",Email Survey
+REV00297,ORD00581,C00188,2024-02-29,1,"Had to pay extra at port, was not told upfront.",Website
+REV00298,ORD00583,C00941,2025-02-03,3,"Decent car, paperwork took a while at KRA. Poa kabisa.",WhatsApp
+REV00299,ORD00586,C00882,2023-09-15,3,"Fine overall, would have liked more updates.",Facebook
+REV00300,ORD00587,C01081,2023-04-18,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV00301,ORD00588,C01131,2026-08-20,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00302,ORD00591,C00947,2024-01-16,4,Good communication throughout the shipping.,Facebook
+REV00303,ORD00593,C00929,2026-06-04,3,"Decent car, paperwork took a while at KRA. Poa kabisa.",Website
+REV00304,ORD00594,C00065,2024-04-12,4,Good communication throughout the shipping.,Facebook
+REV00305,ORD00595,C00601,2023-09-13,5,Smooth process from order to delivery.,Google
+REV00306,ORD00598,C00283,2024-09-07,5,"Very happy with the Toyota Fielder, runs perfectly. Ni gari safi sana.",Google
+REV00307,ORD00599,C00072,2024-01-17,3,,Email Survey
+REV00308,ORD00601,C00825,2025-08-20,1,"Waited too long for registration, very frustrating.",Email Survey
+REV00309,ORD00602,C00979,2026-05-31,5,Fair price compared to other importers.,Website
+REV00310,ORD00603,C00882,2025-11-26,5,Good communication throughout the shipping.,Website
+REV00311,ORD00604,C01014,2025-05-31,5,Good communication throughout the shipping.,Google
+REV00312,ORD00605,C00165,2026-01-16,2,"Had to pay extra at port, was not told upfront.",Google
+REV00313,ORD00608,C00353,2025-02-06,3,Car is okay but delivery took longer than quoted. Cause given: strike action.,Facebook
+REV00314,ORD00609,C00220,2024-02-05,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV00315,ORD00611,C00322,2024-06-09,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00316,ORD00612,C00844,2024-10-25,3,Price was fair but a few scratches not mentioned.,Website
+REV00317,ORD00613,C00806,2026-07-10,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00318,ORD00615,C00589,2025-07-01,1,"AC faulty on delivery, still waiting for a fix.",WhatsApp
+REV00319,ORD00617,C00252,2024-10-18,4,"Very happy with the Toyota Noah, runs perfectly.",Email Survey
+REV00320,ORD00618,C00062,2024-05-21,4,Good communication throughout the shipping.,WhatsApp
+REV00321,ORD00621,C00138,2025-05-06,4,"Car arrived in great condition, exactly as described.",Google
+REV00322,ORD00622,C00430,2026-08-08,4,"Very happy with the Isuzu D-Max, runs perfectly.",Facebook
+REV00323,ORD00627,C00567,2025-04-23,2,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00324,ORD00628,C00338,2024-05-17,1,"Had to pay extra at port, was not told upfront. Cause given: bad weather.",Google
+REV00325,ORD00633,C00321,2026-04-09,5,Smooth process from order to delivery.,WhatsApp
+REV00326,ORD00637,C00181,2026-04-16,5,"Very happy with the Honda Fit, runs perfectly.",Facebook
+REV00327,ORD00642,C00116,2023-05-20,5,Smooth process from order to delivery.,Google
+REV00328,ORD00644,C01161,2024-09-13,1,Mileage seems higher than on the auction sheet. Cause given: transshipment delay. Asante sana!,Google
+REV00329,ORD00647,C00858,2024-09-21,5,Smooth process from order to delivery.,Website
+REV00330,ORD00648,C00838,2026-02-06,5,"Very happy with the Toyota Vitz, runs perfectly.",Website
+REV00331,ORD00649,C00311,2023-05-14,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00332,ORD00652,C01181,2024-03-14,1,Mileage seems higher than on the auction sheet.,Google
+REV00333,ORD00653,C00434,2026-01-12,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00334,ORD00658,C01009,2024-08-26,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV00335,ORD00661,C00204,2025-12-13,4,"Very happy with the Nissan Note, runs perfectly.",Email Survey
+REV00336,ORD00665,C01181,2024-12-28,3,"Fine overall, would have liked more updates.",Website
+REV00337,ORD00666,C00369,2024-03-24,5,"Car arrived in great condition, exactly as described.",Website
+REV00338,ORD00668,C00522,2026-03-31,4,"Very happy with the Isuzu D-Max, runs perfectly.",Website
+REV00339,ORD00672,C01132,2025-07-25,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00340,ORD00673,C00124,2025-12-16,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00341,ORD00674,C00793,2025-10-27,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00342,ORD00675,C00125,2026-07-04,3,Price was fair but a few scratches not mentioned.,Website
+REV00343,ORD00676,C00477,2024-12-09,4,"Very happy with the Toyota Noah, runs perfectly.",WhatsApp
+REV00344,ORD00677,C00846,2023-12-01,2,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00345,ORD00678,C00814,2024-10-29,4,Good communication throughout the shipping. Poa kabisa.,Website
+REV00346,ORD00679,C00676,2025-03-30,4,Fair price compared to other importers.,Google
+REV00347,ORD00682,C00402,2026-07-30,2,Mileage seems higher than on the auction sheet.,Website
+REV00348,ORD00683,C00663,2025-07-28,3,Price was fair but a few scratches not mentioned.,WhatsApp
+REV00349,ORD00684,C00735,2025-11-03,2,"Waited too long for registration, very frustrating. Cause given: customs inspection.",Email Survey
+REV00350,ORD00685,C00529,2026-04-12,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00351,ORD00686,C00168,2026-10-15,1,Mileage seems higher than on the auction sheet. Poa kabisa.,Google
+REV00352,ORD00687,C00881,2024-07-15,5,"Very happy with the Nissan Note, runs perfectly.",Website
+REV00353,ORD00690,C00187,2025-05-20,4,Good communication throughout the shipping.,WhatsApp
+REV00354,ORD00691,C00437,2023-08-24,5,Fair price compared to other importers.,Email Survey
+REV00355,ORD00696,C00529,2025-02-27,4,Fair price compared to other importers. Asante sana!,Google
+REV00356,ORD00697,C00233,2025-02-11,4,Fair price compared to other importers.,WhatsApp
+REV00357,ORD00698,C00144,2025-04-04,5,Good communication throughout the shipping.,Website
+REV00358,ORD00699,C01159,2023-06-12,4,"Very happy with the Toyota Vitz, runs perfectly.",Email Survey
+REV00359,ORD00702,C00683,2026-07-28,4,Good communication throughout the shipping.,Website
+REV00360,ORD00704,C00156,2025-09-01,5,"Car arrived in great condition, exactly as described.",Website
+REV00361,ORD00708,C00116,2023-06-15,3,Car is okay but delivery took longer than quoted. Cause given: documentation error.,Website
+REV00362,ORD00710,C00713,2026-05-15,3,"Fine overall, would have liked more updates.",Google
+REV00363,ORD00716,C01008,2026-07-12,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00364,ORD00718,C00586,2024-12-28,1,Mileage seems higher than on the auction sheet. Poa kabisa.,Facebook
+REV00365,ORD00719,C01153,2026-10-26,5,Fair price compared to other importers.,Facebook
+REV00366,ORD00721,C00991,2025-09-03,3,Car is okay but delivery took longer than quoted. Cause given: strike action.,Facebook
+REV00367,ORD00725,C00497,2025-01-30,4,Fair price compared to other importers.,Email Survey
+REV00368,ORD00726,C01182,2025-02-15,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00369,ORD00730,C00845,2024-07-07,2,"AC faulty on delivery, still waiting for a fix. Cause given: kra system downtime.",Website
+REV00370,ORD00732,C00842,2024-02-04,4,Fair price compared to other importers.,Google
+REV00371,ORD00733,C00055,2024-03-20,5,,Google
+REV00372,ORD00736,C00022,2025-04-21,5,Fair price compared to other importers.,Website
+REV00373,ORD00739,C00389,2026-11-04,5,Fair price compared to other importers.,Website
+REV00374,ORD00740,C01167,2026-05-12,5,Fair price compared to other importers.,Facebook
+REV00375,ORD00741,C01022,2026-10-24,3,Price was fair but a few scratches not mentioned. Cause given: vessel rescheduled.,Website
+REV00376,ORD00742,C00339,2024-01-09,4/5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00377,ORD00745,C00477,2024-10-01,3,"Fine overall, would have liked more updates.",Website
+REV00378,ORD00747,C00576,2026-09-08,1,"AC faulty on delivery, still waiting for a fix. Cause given: strike action.",WhatsApp
+REV00379,ORD00748,C00433,2025-03-12,3,"Decent car, paperwork took a while at KRA.",Website
+REV00380,ORD00749,C00231,2024-11-15,5,Smooth process from order to delivery.,Facebook
+REV00381,ORD00754,C00571,2025-07-12,4,Fair price compared to other importers.,Website
+REV00382,ORD00755,C00175,2025-08-27,5,Smooth process from order to delivery.,Email Survey
+REV00383,ORD00757,C00126,2026-05-20,4,  Good communication throughout the shipping.  ,Google
+REV00384,ORD00758,C00431,2025-04-29,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00385,ORD00760,C01006,2023-09-02,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00386,ORD00761,C00363,2026-05-13,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00387,ORD00764,C00889,2024-10-10,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV00388,ORD00765,C01011,2023-04-28,4,,Website
+REV00389,ORD00767,C00561,2025-01-25,4,"Car arrived in great condition, exactly as described.",Website
+REV00390,ORD00768,C00029,2026-06-28,5,"Very happy with the Toyota Axio, runs perfectly.",Google
+REV00391,ORD00772,C00812,2024-10-17,3,"Fine overall, would have liked more updates.",Email Survey
+REV00392,ORD00774,C00268,2025-11-20,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00393,ORD00777,C00539,2024-03-31,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00394,ORD00780,C00165,2024-11-09,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00395,ORD00781,C00957,2023-12-13,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00396,ORD00783,C00510,2025-12-17,5,Smooth process from order to delivery.,Google
+REV00397,ORD00784,C01085,2024-05-07,5,Smooth process from order to delivery.,Google
+REV00398,ORD00785,C00842,2023-07-23,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV00399,ORD00796,C00161,2025-04-23,5,"Car arrived in great condition, exactly as described.",Google
+REV00400,ORD00797,C00248,2025-01-12,5,"Very happy with the Toyota Harrier, runs perfectly.",Email Survey
+REV00401,ORD00802,C00851,2023-11-27,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00402,ORD00803,C01180,2024-05-12,3,"Fine overall, would have liked more updates.",WhatsApp
+REV00403,ORD00805,C00808,2025-01-13,5,Smooth process from order to delivery.,Facebook
+REV00404,ORD00806,C00821,2025-06-17,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV00405,ORD00807,C01054,2026-06-26,3,Price was fair but a few scratches not mentioned.,Google
+REV00406,ORD00808,C00611,2023-12-09,5,"Car arrived in great condition, exactly as described.",Website
+REV00407,ORD00809,C00784,2026-02-06,3,"Fine overall, would have liked more updates. Cause given: port congestion.",Website
+REV00408,ORD00810,C00835,2025-12-28,4,Good communication throughout the shipping.,WhatsApp
+REV00409,ORD00811,C00992,2025-08-31,5/5,Mileage matched the auction sheet. Honest dealer. Ni gari safi sana.,Google
+REV00410,ORD00812,C00204,2026-08-07,5,,Website
+REV00411,ORD00813,C00788,2025-09-08,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00412,ORD00816,C00343,2023-09-21,3,"Decent car, paperwork took a while at KRA. Cause given: customs inspection.",Facebook
+REV00413,ORD00818,C00747,2024-10-04,5,Smooth process from order to delivery.,Facebook
+REV00414,ORD00819,C00709,2024-12-22,4,Good communication throughout the shipping.,Google
+REV00415,ORD00823,C00608,2024-07-16,5,"Very happy with the Toyota Fortuner, runs perfectly.",Google
+REV00416,ORD00825,C00592,2025-08-29,5,Good communication throughout the shipping.,Website
+REV00417,ORD00827,C00905,2025-08-13,4,Good communication throughout the shipping.,WhatsApp
+REV00418,ORD00828,C00298,2023-05-27,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV00419,ORD00829,C00834,2026-04-22,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00420,ORD00831,C00080,2023-11-24,5,"Very happy with the Toyota Passo, runs perfectly.",Google
+REV00421,ORD00832,C00343,2023-08-03,2,"AC faulty on delivery, still waiting for a fix.",Google
+REV00422,ORD00836,C00224,2025-10-08,4,"Very happy with the Suzuki Swift, runs perfectly.",Google
+REV00423,ORD00838,C00369,2023-04-09,3,"Fine overall, would have liked more updates.",Facebook
+REV00424,ORD00840,C00077,2025-12-11,2,Mileage seems higher than on the auction sheet. Sio mbaya.,Website
+REV00425,ORD00843,C00250,2024-06-25,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00426,ORD00844,C00508,2025-10-11,5,Smooth process from order to delivery.,Facebook
+REV00427,ORD00845,C00848,2025-10-13,5,Smooth process from order to delivery.,Google
+REV00428,ORD00846,C00692,2025-05-23,4,Smooth process from order to delivery.,Google
+REV00429,ORD00848,C01138,2024-12-31,4,Smooth process from order to delivery.,Google
+REV00430,ORD00850,C00724,2024-07-09,4,"Car arrived in great condition, exactly as described.",Website
+REV00431,ORD00860,C00566,2023-09-05,4,,Email Survey
+REV00432,ORD00862,C00942,2024-01-05,5,Good communication throughout the shipping.,Facebook
+REV00433,ORD00864,C00996,2026-08-26,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00434,ORD00865,C00567,2026-09-30,4/5,Smooth process from order to delivery.,Website
+REV00435,ORD00867,C00306,2023-05-15,3,"Fine overall, would have liked more updates.",Google
+REV00436,ORD00871,C00423,2025-06-03,5,Good communication throughout the shipping.,Website
+REV00437,ORD00874,C00536,2025-05-01,2,"Shipping delayed by weeks, no updates from the sales team.",Facebook
+REV00438,ORD00880,C01087,2025-11-01,4,"Car arrived in great condition, exactly as described.",Website
+REV00439,ORD00882,C00203,2025-02-04,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00440,ORD00884,C00508,2024-11-03,3,"Fine overall, would have liked more updates.",Google
+REV00441,ORD00886,C00565,2025-10-17,4,Smooth process from order to delivery.,Google
+REV00442,ORD00888,C00497,2025-11-25,2,"Had to pay extra at port, was not told upfront.",Google
+REV00443,ORD00890,C00319,2025-04-15,1,"Waited too long for registration, very frustrating.",Facebook
+REV00444,ORD00892,C00983,2024-07-04,3,"Decent car, paperwork took a while at KRA. Cause given: vessel rescheduled.",WhatsApp
+REV00445,ORD00894,C00010,2026-01-05,3,"Fine overall, would have liked more updates.",Website
+REV00446,ORD00897,C00144,2023-07-31,3,"Fine overall, would have liked more updates. Cause given: bad weather.",Email Survey
+REV00447,ORD00899,C00005,2023-06-13,5,"Car arrived in great condition, exactly as described.",Website
+REV00448,ORD00900,C00619,2024-09-29,2,"Had to pay extra at port, was not told upfront. Cause given: kra system downtime.",Google
+REV00449,ORD00902,C00106,2024-08-24,5,Good communication throughout the shipping. Poa kabisa.,Google
+REV00450,ORD00904,C00646,2025-11-29,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00451,ORD00907,C00238,2025-07-03,4,Smooth process from order to delivery.,Facebook
+REV00452,ORD00909,C00385,2024-02-02,4,Smooth process from order to delivery. Sio mbaya.,Website
+REV00453,ORD00910,C00035,2024-10-08,1,"Waited too long for registration, very frustrating.",Email Survey
+REV00454,ORD00911,C00973,2025-09-18,5,"Very happy with the Volkswagen Golf, runs perfectly.",Email Survey
+REV00455,ORD00912,C00665,2025-05-03,2,"Had to pay extra at port, was not told upfront. Cause given: port congestion.",Website
+REV00456,ORD00913,C00213,2023-06-01,5,Good communication throughout the shipping.,WhatsApp
+REV00457,ORD00914,C00477,2025-11-15,3,Price was fair but a few scratches not mentioned.,Google
+REV00458,ORD00915,C00429,2023-04-18,3,"Fine overall, would have liked more updates.",Website
+REV00459,ORD00919,C00583,2023-12-27,3,"Decent car, paperwork took a while at KRA. Cause given: vessel rescheduled.",Website
+REV00460,ORD00922,C00619,2026-02-06,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00461,ORD00923,C00374,2023-12-17,5,Smooth process from order to delivery.,Website
+REV00462,ORD00928,C00611,2025-10-21,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00463,ORD00930,C00417,2024-12-20,2,Mileage seems higher than on the auction sheet. Cause given: customs inspection.,Email Survey
+REV00464,ORD00933,C00144,2024-12-18,4,Smooth process from order to delivery.,Google
+REV00465,ORD00934,C00212,2024-11-18,2,Mileage seems higher than on the auction sheet.,Website
+REV00466,ORD00935,C01166,2025-07-08,1,"AC faulty on delivery, still waiting for a fix. Cause given: kra system downtime.",WhatsApp
+REV00467,ORD00937,C00199,2025-12-12,3,Price was fair but a few scratches not mentioned.,WhatsApp
+REV00468,ORD00938,C00095,2025-10-13,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV00469,ORD00943,C00938,2024-02-21,3,"Decent car, paperwork took a while at KRA.",Google
+REV00470,ORD00948,C00212,2026-08-28,4,Smooth process from order to delivery.,Facebook
+REV00471,ORD00950,C00224,2025-12-24,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV00472,ORD00951,C00381,2025-06-13,5,Good communication throughout the shipping. Sio mbaya.,Facebook
+REV00473,ORD00958,C00064,2026-10-30,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV00474,ORD00959,C00342,2024-12-14,5,Good communication throughout the shipping.,Email Survey
+REV00475,ORD00960,C00204,2024-09-13,4,Smooth process from order to delivery.,Website
+REV00476,ORD00963,C01097,2026-09-16,5/5,"Very happy with the Mitsubishi Outlander, runs perfectly.",Google
+REV00477,ORD00964,C00842,2026-05-02,4,"Very happy with the Honda Fit, runs perfectly.",Website
+REV00478,ORD00968,C00642,2026-08-01,5,"Very happy with the Mazda Demio, runs perfectly.",Website
+REV00479,ORD00975,C01038,2024-08-04,5,"Very happy with the Toyota Vitz, runs perfectly.",Email Survey
+REV00480,ORD00977,C00873,2023-05-21,5,Fair price compared to other importers.,Google
+REV00481,ORD00978,C00362,2026-10-17,3,"Fine overall, would have liked more updates.",Website
+REV00482,ORD00984,C00480,2024-10-29,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00483,ORD00986,C00174,2024-08-29,4,Fair price compared to other importers.,Google
+REV00484,ORD00987,C00688,2025-01-30,4,Fair price compared to other importers.,WhatsApp
+REV00485,ORD00991,C00736,2024-09-24,3,Price was fair but a few scratches not mentioned.,Facebook
+REV00486,ORD00993,C01000,2024-12-03,4,Good communication throughout the shipping.,WhatsApp
+REV00487,ORD00995,C00031,2023-11-18,5,"Very happy with the Toyota Fielder, runs perfectly.",Facebook
+REV00488,ORD00996,C00443,2024-08-28,3,"Decent car, paperwork took a while at KRA. Cause given: transshipment delay.",WhatsApp
+REV00489,ORD01000,C00580,2026-06-21,4,Smooth process from order to delivery.,WhatsApp
+REV00490,ORD01003,C00507,2026-02-03,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00491,ORD01004,C00752,2024-09-16,2,Mileage seems higher than on the auction sheet. Asante sana!,WhatsApp
+REV00492,ORD01005,C00996,2023-09-26,1,"Waited too long for registration, very frustrating.",Website
+REV00493,ORD01009,C00526,2024-09-16,3,"Decent car, paperwork took a while at KRA.",Website
+REV00494,ORD01010,C00512,2025-03-04,4,"Car arrived in great condition, exactly as described.",Facebook
+REV00495,ORD01013,C00847,2023-06-04,5,"Car arrived in great condition, exactly as described.",Google
+REV00496,ORD01016,C00350,2024-03-02,2,"Shipping delayed by weeks, no updates from the sales team.",Facebook
+REV00497,ORD01018,C00282,2025-01-10,5,"Very happy with the Nissan X-Trail, runs perfectly.",Google
+REV00498,ORD01019,C01162,2024-08-22,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00499,ORD01022,C01129,2023-08-14,5,"Very happy with the BMW X5, runs perfectly.",Website
+REV00500,ORD01025,C00879,2025-02-15,1,"Shipping delayed by weeks, no updates from the sales team.",Email Survey
+REV00501,ORD01028,C01148,2024-01-15,1,Mileage seems higher than on the auction sheet. Cause given: vessel rescheduled.,WhatsApp
+REV00502,ORD01029,C00369,2023-11-29,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV00503,ORD01031,C00197,2026-10-27,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00504,ORD01033,C00758,2024-12-12,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00505,ORD01035,C00135,2025-01-08,4/5,"Very happy with the Honda Fit, runs perfectly.",Facebook
+REV00506,ORD01037,C00686,2024-08-25,3,"Fine overall, would have liked more updates.",Website
+REV00507,ORD01039,C00480,2026-06-18,5,"Very happy with the Nissan Juke, runs perfectly.",Website
+REV00508,ORD01040,C00875,2024-04-02,5,"Very happy with the Land Rover Discovery 4, runs perfectly.",Email Survey
+REV00509,ORD01041,C00094,2026-01-25,5,Fair price compared to other importers.,WhatsApp
+REV00510,ORD01043,C00858,2026-10-15,4,Smooth process from order to delivery.,Google
+REV00511,ORD01045,C00673,2026-09-08,1,Mileage seems higher than on the auction sheet.,Email Survey
+REV00512,ORD01051,C00066,2024-11-20,4,"Very happy with the Toyota Passo, runs perfectly. Sio mbaya.",Email Survey
+REV00513,ORD01053,C00835,2024-12-16,2,Mileage seems higher than on the auction sheet.,Website
+REV00514,ORD01055,C00204,2026-05-04,4,Smooth process from order to delivery.,Email Survey
+REV00515,ORD01058,C01091,2025-01-25,5,Smooth process from order to delivery.,Website
+REV00516,ORD01062,C00524,2024-01-14,4,Smooth process from order to delivery.,Website
+REV00517,ORD01063,C00528,2024-05-06,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00518,ORD01066,C00553,2024-01-08,2,"Waited too long for registration, very frustrating. Asante sana!",Google
+REV00519,ORD01068,C00125,2026-01-16,5,Good communication throughout the shipping.,Facebook
+REV00520,ORD01070,C00565,2025-04-07,3,Car is okay but delivery took longer than quoted.,Google
+REV00521,ORD01072,C01174,2024-06-07,1,"Had to pay extra at port, was not told upfront.",Google
+REV00522,ORD01076,C00872,2023-09-29,3,Car is okay but delivery took longer than quoted.,Google
+REV00523,ORD01077,C00478,2023-06-26,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00524,ORD01079,C01005,2025-02-07,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00525,ORD01081,C00301,2023-06-28,5,Good communication throughout the shipping. Poa kabisa.,Website
+REV00526,ORD01082,C00120,2025-04-16,3,Price was fair but a few scratches not mentioned.,Facebook
+REV00527,ORD01087,C00726,2026-02-07,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00528,ORD01089,C00382,2026-05-03,2,"Had to pay extra at port, was not told upfront. Ni gari safi sana.",WhatsApp
+REV00529,ORD01090,C00585,2026-02-02,2,"Waited too long for registration, very frustrating.",Website
+REV00530,ORD01092,C01147,2023-09-18,3,"Decent car, paperwork took a while at KRA.",Website
+REV00531,ORD01093,C00279,2024-04-29,1,"Waited too long for registration, very frustrating.",Email Survey
+REV00532,ORD01103,C00903,2024-10-19,4,"Very happy with the Toyota Axio, runs perfectly.",Google
+REV00533,ORD01106,C00614,2024-06-13,4,Fair price compared to other importers.,Website
+REV00534,ORD01107,C01174,2026-08-25,5,Good communication throughout the shipping.,Website
+REV00535,ORD01108,C00842,2026-05-11,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00536,ORD01109,C00714,2024-02-10,3,"Fine overall, would have liked more updates.",WhatsApp
+REV00537,ORD01111,C00490,2024-01-07,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00538,ORD01115,C00528,2025-06-28,5,Fair price compared to other importers.,WhatsApp
+REV00539,ORD01117,C00117,2023-12-06,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV00540,ORD01118,C01088,2026-05-04,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00541,ORD01121,C00647,2024-05-15,3,Price was fair but a few scratches not mentioned. Cause given: port congestion.,Google
+REV00542,ORD01122,C00248,2025-05-25,4,Good communication throughout the shipping.,Facebook
+REV00543,ORD01124,C01069,2025-06-07,5/5,"Car arrived in great condition, exactly as described.",Website
+REV00544,ORD01125,C01112,2025-08-27,4,Good communication throughout the shipping.,Website
+REV00545,ORD01126,C00592,2024-09-19,5,"Car arrived in great condition, exactly as described.",Google
+REV00546,ORD01129,C00376,2026-08-03,5,"Very happy with the Nissan X-Trail, runs perfectly.",Website
+REV00547,ORD01130,C00828,2026-02-16,5,"Very happy with the Lexus RX 350, runs perfectly.",Facebook
+REV00548,ORD01131,C00796,2025-08-07,3,Car is okay but delivery took longer than quoted. Cause given: bad weather.,Google
+REV00549,ORD01132,C00409,2026-01-03,4,Fair price compared to other importers.,Facebook
+REV00550,ORD01133,C00204,2026-07-01,5,Good communication throughout the shipping.,Website
+REV00551,ORD01134,C00510,2026-06-19,2,"Had to pay extra at port, was not told upfront.",Website
+REV00552,ORD01135,C00210,2023-08-09,3,"Decent car, paperwork took a while at KRA.",Google
+REV00553,ORD01137,C00721,2025-12-27,4,Good communication throughout the shipping.,Website
+REV00554,ORD01139,C01134,2025-10-03,5,"Very happy with the Toyota Noah, runs perfectly.",Google
+REV00555,ORD01140,C00065,2024-03-22,1,"AC faulty on delivery, still waiting for a fix.",Website
+REV00556,ORD01143,C01158,2025-07-01,4,"Very happy with the Mitsubishi Outlander, runs perfectly.",Website
+REV00557,ORD01144,C00214,2023-06-11,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV00558,ORD01145,C00857,2025-09-08,4,"Very happy with the Land Rover Discovery 4, runs perfectly.",WhatsApp
+REV00559,ORD01148,C00752,2025-01-07,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00560,ORD01149,C00716,2025-03-12,2,"AC faulty on delivery, still waiting for a fix. Cause given: documentation error.",Google
+REV00561,ORD01150,C00669,2026-04-30,3,Price was fair but a few scratches not mentioned. Asante sana!,Website
+REV00562,ORD01151,C00550,2025-04-16,3,Price was fair but a few scratches not mentioned.,Website
+REV00563,ORD01157,C00592,2026-08-31,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00564,ORD01159,C01197,2026-08-05,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00565,ORD01160,C00124,2026-01-15,1,Mileage seems higher than on the auction sheet.,Website
+REV00566,ORD01162,C01200,2026-04-18,4,Fair price compared to other importers.,Google
+REV00567,ORD01163,C00173,2025-06-18,3,Price was fair but a few scratches not mentioned. Cause given: kra system downtime.,Email Survey
+REV00568,ORD01165,C00398,2026-05-29,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00569,ORD01166,C00248,2026-02-25,5,"Very happy with the Mazda CX-5, runs perfectly.",Facebook
+REV00570,ORD01167,C00375,2025-11-27,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00571,ORD01169,C00640,2025-06-20,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00572,ORD01170,C00429,2023-10-29,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00573,ORD01171,C00149,2023-06-04,5,Mileage matched the auction sheet. Honest dealer. Poa kabisa.,Google
+REV00574,ORD01173,C00900,2026-09-14,2,"AC faulty on delivery, still waiting for a fix.",Email Survey
+REV00575,ORD01174,C01149,2024-11-17,5,Good communication throughout the shipping.,Email Survey
+REV00576,ORD01177,C00928,2026-07-30,2/5,Mileage seems higher than on the auction sheet. Cause given: transshipment delay.,WhatsApp
+REV00577,ORD01179,C01179,2023-07-12,4,"Car arrived in great condition, exactly as described.",Facebook
+REV00578,ORD01182,C00796,2025-07-28,2,"Had to pay extra at port, was not told upfront.",Facebook
+REV00579,ORD01184,C00152,2025-06-23,3,Price was fair but a few scratches not mentioned. Cause given: transshipment delay.,Facebook
+REV00580,ORD01185,C00159,2026-08-09,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00581,ORD01191,C00756,2024-06-16,3,"Decent car, paperwork took a while at KRA.",Google
+REV00582,ORD01194,C00796,2024-12-16,4,Good communication throughout the shipping.,Website
+REV00583,ORD01196,C01149,2025-08-30,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00584,ORD01197,C00343,2025-07-23,2,Mileage seems higher than on the auction sheet.,Email Survey
+REV00585,ORD01202,C01057,2025-10-09,5,Good communication throughout the shipping.,Facebook
+REV00586,ORD01205,C00940,2023-05-12,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00587,ORD01209,C00039,2025-09-18,5,Good communication throughout the shipping.,Google
+REV00588,ORD01210,C00477,2026-08-24,4,"Very happy with the Mazda Demio, runs perfectly.",WhatsApp
+REV00589,ORD01212,C00661,2023-10-28,3,Price was fair but a few scratches not mentioned.,Google
+REV00590,ORD01213,C00889,2024-02-12,4,,WhatsApp
+REV00591,ORD01216,C00316,2025-12-31,3,Car is okay but delivery took longer than quoted. Cause given: customs inspection.,Email Survey
+REV00592,ORD01217,C00070,2026-09-23,4,"Car arrived in great condition, exactly as described.",Website
+REV00593,ORD01219,C00791,2025-11-23,4,Fair price compared to other importers.,Facebook
+REV00594,ORD01220,C00932,2023-07-20,5,Fair price compared to other importers.,Website
+REV00595,ORD01221,C01087,2026-03-28,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00596,ORD01222,C00185,2026-03-10,4,"Very happy with the Toyota Hilux Double Cab, runs perfectly.",Facebook
+REV00597,ORD01224,C00497,2025-09-12,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00598,ORD01226,C00797,2023-10-11,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV00599,ORD01228,C00032,2024-04-07,3,Car is okay but delivery took longer than quoted. Cause given: documentation error.,Website
+REV00600,ORD01230,C00490,2026-09-04,5,Smooth process from order to delivery.,Website
+REV00601,ORD01232,C00069,2023-12-29,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00602,ORD01233,C01122,2023-08-08,5,Good communication throughout the shipping.,Google
+REV00603,ORD01239,C00784,2024-08-19,3,"Decent car, paperwork took a while at KRA. Cause given: vessel rescheduled.",Google
+REV00604,ORD01240,C01111,2023-11-21,3,Price was fair but a few scratches not mentioned.,Google
+REV00605,ORD01241,C00842,2023-08-11,5,Smooth process from order to delivery.,Website
+REV00606,ORD01242,C00937,2025-04-24,4,"Car arrived in great condition, exactly as described.",Facebook
+REV00607,ORD01243,C00942,2023-07-09,3,"Decent car, paperwork took a while at KRA.",Website
+REV00608,ORD01244,C01111,2025-03-03,5,Fair price compared to other importers.,Website
+REV00609,ORD01251,C00663,2025-06-13,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00610,ORD01252,C00527,2023-05-29,4,Good communication throughout the shipping.,Email Survey
+REV00611,ORD01253,C00063,2024-09-09,3,Car is okay but delivery took longer than quoted.,Website
+REV00612,ORD01254,C00106,2025-03-31,5,Smooth process from order to delivery.,Facebook
+REV00613,ORD01255,C00033,2026-11-04,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00614,ORD01256,C00846,2025-02-24,5,Smooth process from order to delivery.,Facebook
+REV00615,ORD01257,C00338,2024-05-12,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00616,ORD01258,C01199,2025-09-27,3,"Fine overall, would have liked more updates. Cause given: bad weather. Sio mbaya.",WhatsApp
+REV00617,ORD01260,C00618,2025-01-29,3,Car is okay but delivery took longer than quoted.,WhatsApp
+REV00618,ORD01261,C00133,2025-03-21,3,"Fine overall, would have liked more updates.",Facebook
+REV00619,ORD01262,C00454,2023-04-15,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00620,ORD01263,C00371,2024-06-25,3,Price was fair but a few scratches not mentioned. Cause given: kra system downtime.,Website
+REV00621,ORD01270,C00610,2026-02-01,4,"Car arrived in great condition, exactly as described.",Google
+REV00622,ORD01271,C00611,2026-07-16,4,Smooth process from order to delivery.,Email Survey
+REV00623,ORD01272,C00954,2026-07-26,2,Mileage seems higher than on the auction sheet.,Website
+REV00624,ORD01273,C00645,2024-12-02,4,Fair price compared to other importers.,Website
+REV00625,ORD01276,C00003,2025-12-31,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00626,ORD01279,C00323,2024-01-22,5,Smooth process from order to delivery.,Google
+REV00627,ORD01281,C00864,2024-07-17,1,"Had to pay extra at port, was not told upfront.",Google
+REV00628,ORD01282,C00029,2024-10-30,3,Car is okay but delivery took longer than quoted.,Website
+REV00629,ORD01283,C00231,2024-06-12,3,Car is okay but delivery took longer than quoted.,Facebook
+REV00630,ORD01285,C01141,2023-11-15,4,"Very happy with the Mercedes-Benz C200, runs perfectly.",Website
+REV00631,ORD01287,C00614,2025-02-24,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00632,ORD01288,C00717,2025-03-13,4,Good communication throughout the shipping.,Website
+REV00633,ORD01289,C00277,2025-02-08,3,Car is okay but delivery took longer than quoted.,WhatsApp
+REV00634,ORD01290,C01087,2024-10-17,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00635,ORD01292,C00790,2023-10-09,5,Smooth process from order to delivery.,Email Survey
+REV00636,ORD01295,C00061,2024-06-20,2,"AC faulty on delivery, still waiting for a fix. Cause given: strike action.",Email Survey
+REV00637,ORD01298,C00204,2024-02-13,5,Good communication throughout the shipping.,Email Survey
+REV00638,ORD01299,C00836,2025-05-25,2,,Facebook
+REV00639,ORD01301,C00855,2023-09-25,5,Good communication throughout the shipping.,Google
+REV00640,ORD01303,C00771,2024-09-23,5,"Very happy with the Suzuki Swift, runs perfectly.",Website
+REV00641,ORD01304,C00354,2026-02-08,3,"Decent car, paperwork took a while at KRA.",Google
+REV00642,ORD01305,C01129,2024-04-14,4/5,"Car arrived in great condition, exactly as described.",Facebook
+REV00643,ORD01307,C00307,2024-02-06,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00644,ORD01308,C00643,2026-08-29,5,Fair price compared to other importers.,Website
+REV00645,ORD01310,C00027,2026-03-29,2,Mileage seems higher than on the auction sheet. Cause given: transshipment delay.,Facebook
+REV00646,ORD01312,C00342,2023-06-13,3,Car is okay but delivery took longer than quoted.,Google
+REV00647,ORD01313,C00735,2025-04-15,5,Good communication throughout the shipping.,Website
+REV00648,ORD01317,C01069,2026-02-19,4,Good communication throughout the shipping.,Website
+REV00649,ORD01318,C01053,2026-03-21,1,"Had to pay extra at port, was not told upfront.",Facebook
+REV00650,ORD01319,C00110,2025-11-24,2,"Had to pay extra at port, was not told upfront.",Google
+REV00651,ORD01320,C01188,2024-03-06,5,Fair price compared to other importers.,Google
+REV00652,ORD01324,C00592,2026-07-12,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00653,ORD01325,C00074,2023-11-10,3,"Fine overall, would have liked more updates.",Google
+REV00654,ORD01326,C00194,2026-09-14,4,"Car arrived in great condition, exactly as described.",Google
+REV00655,ORD01327,C00048,2024-06-06,4/5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00656,ORD01328,C00795,2024-10-13,1,"Waited too long for registration, very frustrating.",WhatsApp
+REV00657,ORD01334,C00758,2025-12-29,2,"AC faulty on delivery, still waiting for a fix.",WhatsApp
+REV00658,ORD01335,C01132,2023-12-19,2,"Waited too long for registration, very frustrating.",Website
+REV00659,ORD01338,C00062,2025-06-21,5,Smooth process from order to delivery.,Facebook
+REV00660,ORD01339,C00716,2024-08-26,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00661,ORD01341,C00306,2024-10-21,5,Smooth process from order to delivery. Poa kabisa.,Website
+REV00662,ORD01344,C00037,2024-06-20,3,Price was fair but a few scratches not mentioned. Sio mbaya.,Website
+REV00663,ORD01346,C00110,2024-01-09,3,Car is okay but delivery took longer than quoted. Cause given: customs inspection.,Google
+REV00664,ORD01347,C00683,2024-05-11,2,"Had to pay extra at port, was not told upfront.",WhatsApp
+REV00665,ORD01348,C00371,2025-10-09,3,"Decent car, paperwork took a while at KRA. Cause given: port congestion.",Email Survey
+REV00666,ORD01351,C01022,2024-02-09,5,Fair price compared to other importers.,Google
+REV00667,ORD01352,C00444,2025-07-08,5,Smooth process from order to delivery.,WhatsApp
+REV00668,ORD01353,C01008,2024-08-09,4,Smooth process from order to delivery.,Website
+REV00669,ORD01355,C00176,2024-02-19,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00670,ORD01358,C00752,2025-11-17,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00671,ORD01359,C00241,2023-11-08,4,Fair price compared to other importers.,Website
+REV00672,ORD01360,C00253,2025-08-14,4,"Very happy with the Toyota Land Cruiser Prado, runs perfectly.",Website
+REV00673,ORD01361,C00386,2025-12-05,5,Fair price compared to other importers.,Email Survey
+REV00674,ORD01362,C01169,2026-05-05,4,Good communication throughout the shipping.,WhatsApp
+REV00675,ORD01363,C00583,2026-05-27,3,"Decent car, paperwork took a while at KRA. Cause given: documentation error.",Facebook
+REV00676,ORD01364,C00562,2026-09-15,2,"Shipping delayed by weeks, no updates from the sales team. Cause given: bad weather.",WhatsApp
+REV00677,ORD01365,C00520,2025-04-22,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00678,ORD01366,C00434,2024-11-27,2,Mileage seems higher than on the auction sheet.,Google
+REV00679,ORD01367,C00987,2024-04-10,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00680,ORD01368,C00855,2024-05-14,4,Smooth process from order to delivery.,Google
+REV00681,ORD01370,C00133,2024-04-23,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV00682,ORD01371,C00699,2026-07-29,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV00683,ORD01376,C00817,2026-02-09,4,Fair price compared to other importers.,Website
+REV00684,ORD01378,C00433,2026-03-02,3,Price was fair but a few scratches not mentioned. Poa kabisa.,Website
+REV00685,ORD01380,C00923,2024-05-30,3,Price was fair but a few scratches not mentioned. Cause given: customs inspection.,Facebook
+REV00686,ORD01383,C00009,2024-09-05,3,"Fine overall, would have liked more updates. Cause given: port congestion.",WhatsApp
+REV00687,ORD01384,C00847,2024-08-28,4,"Very happy with the Nissan Note, runs perfectly.",Email Survey
+REV00688,ORD01386,C00536,2026-02-05,3,"Decent car, paperwork took a while at KRA. Cause given: port congestion.",Google
+REV00689,ORD01387,C00372,2026-02-21,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00690,ORD01391,C00924,2026-01-16,2,"Waited too long for registration, very frustrating. Cause given: customs inspection. Asante sana!",WhatsApp
+REV00691,ORD01392,C00154,2026-01-07,3,Car is okay but delivery took longer than quoted.,Facebook
+REV00692,ORD01393,C01138,2024-02-14,5,Smooth process from order to delivery.,Email Survey
+REV00693,ORD01396,C00052,2023-05-21,5,Fair price compared to other importers.,Email Survey
+REV00694,ORD01400,C00263,2024-09-05,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV00695,ORD01401,C00263,2026-11-04,4,"Very happy with the Mazda Demio, runs perfectly.",Email Survey
+REV00696,ORD01402,C00204,2026-05-09,4,Good communication throughout the shipping.,Facebook
+REV00697,ORD01403,C00409,2025-09-27,4,Smooth process from order to delivery.,Website
+REV00698,ORD01405,C00586,2025-06-05,5/5,"Car arrived in great condition, exactly as described.",Website
+REV00699,ORD01410,C01111,2026-04-26,4,Good communication throughout the shipping.,Email Survey
+REV00700,ORD01411,C01033,2023-07-02,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV00701,ORD01413,C01182,2026-11-04,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00702,ORD01414,C00836,2023-10-16,1,,Website
+REV00703,ORD01415,C00840,2026-02-21,3,"Fine overall, would have liked more updates. Asante sana!",Website
+REV00704,ORD01416,C01151,2024-02-27,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00705,ORD01418,C00130,2023-06-05,3,Price was fair but a few scratches not mentioned.,Website
+REV00706,ORD01421,C01181,2025-10-11,4,Fair price compared to other importers.,Website
+REV00707,ORD01424,C00871,2026-10-30,1/5,"Had to pay extra at port, was not told upfront.",Facebook
+REV00708,ORD01425,C01180,2023-11-26,5,"Very happy with the BMW X5, runs perfectly.",Google
+REV00709,ORD01427,C00103,2025-11-09,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00710,ORD01428,C00556,2026-05-04,1,"Had to pay extra at port, was not told upfront. Cause given: bad weather.",Facebook
+REV00711,ORD01429,C00647,2025-11-17,1,"  Waited too long for registration, very frustrating. Cause given: port congestion.  ",Email Survey
+REV00712,ORD01430,C00328,2024-06-17,3,"Fine overall, would have liked more updates.",Website
+REV00713,ORD01431,C00796,2025-05-20,5,Good communication throughout the shipping.,WhatsApp
+REV00714,ORD01433,C01047,2026-03-06,5,Smooth process from order to delivery.,Facebook
+REV00715,ORD01436,C00396,2024-01-07,5,"Very happy with the Honda Vezel, runs perfectly.",Website
+REV00716,ORD01437,C00117,2025-09-10,5,Smooth process from order to delivery.,Website
+REV00717,ORD01438,C00848,2026-07-05,4,Good communication throughout the shipping.,Email Survey
+REV00718,ORD01440,C01185,2026-09-21,1,"Shipping delayed by weeks, no updates from the sales team. Cause given: port congestion.",WhatsApp
+REV00719,ORD01443,C00533,2023-10-22,5,,Email Survey
+REV00720,ORD01444,C00178,2025-08-12,4/5,"Very happy with the Toyota Fielder, runs perfectly.",Google
+REV00721,ORD01446,C01180,2026-07-29,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00722,ORD01447,C00675,2025-10-18,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV00723,ORD01448,C01036,2024-05-30,3,"Fine overall, would have liked more updates.",Website
+REV00724,ORD01451,C01149,2026-03-10,4,"Car arrived in great condition, exactly as described.",Google
+REV00725,ORD01452,C00405,2023-09-19,4,Good communication throughout the shipping.,Facebook
+REV00726,ORD01453,C00198,2025-07-17,2,Mileage seems higher than on the auction sheet.,Website
+REV00727,ORD01455,C00921,2026-08-19,5,Good communication throughout the shipping.,Website
+REV00728,ORD01456,C00813,2024-05-13,2,"AC faulty on delivery, still waiting for a fix.",Google
+REV00729,ORD01458,C00890,2025-08-27,3,Price was fair but a few scratches not mentioned.,Facebook
+REV00730,ORD01460,C00709,2024-12-08,1,Mileage seems higher than on the auction sheet. Cause given: bad weather.,Facebook
+REV00731,ORD01461,C00300,2025-02-06,3,"Decent car, paperwork took a while at KRA.",Website
+REV00732,ORD01462,C01002,2024-04-09,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00733,ORD01463,C00888,2025-04-30,5,Good communication throughout the shipping.,WhatsApp
+REV00734,ORD01464,C01162,2025-03-22,1,"AC faulty on delivery, still waiting for a fix. Cause given: transshipment delay.",Website
+REV00735,ORD01466,C00989,2025-10-26,2,"Waited too long for registration, very frustrating.",Email Survey
+REV00736,ORD01467,C00846,2026-01-11,1,"AC faulty on delivery, still waiting for a fix. Cause given: documentation error.",Google
+REV00737,ORD01468,C00114,2026-09-07,5,"Very happy with the Nissan Note, runs perfectly.",Google
+REV00738,ORD01469,C00642,2025-08-29,1,"Had to pay extra at port, was not told upfront.",Website
+REV00739,ORD01471,C01017,2025-10-06,2,Mileage seems higher than on the auction sheet.,Website
+REV00740,ORD01473,C00321,2025-07-23,2,"Shipping delayed by weeks, no updates from the sales team.",Email Survey
+REV00741,ORD01474,C00760,2025-09-01,4,"Very happy with the Ford Ranger, runs perfectly.",Google
+REV00742,ORD01475,C00262,2024-10-17,1,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00743,ORD01476,C00132,2025-12-28,4,"Car arrived in great condition, exactly as described.",Website
+REV00744,ORD01477,C00311,2024-03-26,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV00745,ORD01478,C00752,2025-03-12,2,"AC faulty on delivery, still waiting for a fix.",WhatsApp
+REV00746,ORD01479,C00684,2026-11-04,3,"Decent car, paperwork took a while at KRA.",Website
+REV00747,ORD01483,C00135,2025-04-15,2,Mileage seems higher than on the auction sheet.,Email Survey
+REV00748,ORD01484,C00676,2025-06-26,4,"Very happy with the Nissan Juke, runs perfectly.",Website
+REV00749,ORD01485,C00419,2026-01-14,4,"Very happy with the Toyota Noah, runs perfectly.",Google
+REV00750,ORD01487,C00957,2025-09-10,3,"Decent car, paperwork took a while at KRA.",WhatsApp
+REV00751,ORD01489,C01050,2023-07-13,4,"Car arrived in great condition, exactly as described.",Website
+REV00752,ORD01491,C00430,2024-02-29,5,Smooth process from order to delivery.,Facebook
+REV00753,ORD01493,C00638,2024-02-19,2,"Had to pay extra at port, was not told upfront.",Website
+REV00754,ORD01494,C00837,2023-08-06,5,Smooth process from order to delivery.,WhatsApp
+REV00755,ORD01495,C00140,2024-03-21,4,"Very happy with the Nissan X-Trail, runs perfectly.",Google
+REV00756,ORD01499,C01084,2025-12-10,4,Good communication throughout the shipping. Sio mbaya.,Email Survey
+REV00757,ORD01500,C00994,2025-04-28,5,"Very happy with the Land Rover Range Rover Sport, runs perfectly.",Facebook
+REV00758,ORD01506,C00714,2023-05-01,4,"Car arrived in great condition, exactly as described.",Website
+REV00759,ORD01507,C00223,2026-03-20,2,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00760,ORD01508,C01183,2024-12-28,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00761,ORD01509,C00392,2024-10-03,4,"Very happy with the Volkswagen Golf, runs perfectly.",Website
+REV00762,ORD01514,C00893,2024-10-16,2,"Waited too long for registration, very frustrating.",Website
+REV00763,ORD01519,C01024,2026-01-22,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00764,ORD01524,C00172,2023-06-30,4,Good communication throughout the shipping.,Google
+REV00765,ORD01528,C00686,2023-11-24,2,"Had to pay extra at port, was not told upfront. Cause given: documentation error.",Google
+REV00766,ORD01529,C00950,2025-04-03,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV00767,ORD01530,C00849,2024-06-12,3,Price was fair but a few scratches not mentioned. Cause given: kra system downtime.,Google
+REV00768,ORD01531,C01003,2026-05-27,4,"Car arrived in great condition, exactly as described.",Website
+REV00769,ORD01532,C00641,2026-08-13,5,"Car arrived in great condition, exactly as described.",Website
+REV00770,ORD01536,C00829,2025-10-08,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00771,ORD01537,C01159,2026-06-09,4,"Car arrived in great condition, exactly as described.",Website
+REV00772,ORD01540,C00487,2026-08-03,4,  Fair price compared to other importers.  ,Google
+REV00773,ORD01542,C00261,2025-07-01,4,Good communication throughout the shipping.,Google
+REV00774,ORD01543,C00474,2025-10-22,4,Good communication throughout the shipping.,WhatsApp
+REV00775,ORD01544,C00223,2024-10-22,5,"Very happy with the Suzuki Swift, runs perfectly.",Website
+REV00776,ORD01546,C00951,2025-12-31,5,"Very happy with the Nissan Juke, runs perfectly.",Email Survey
+REV00777,ORD01547,C00621,2026-01-23,2,"Had to pay extra at port, was not told upfront.",Website
+REV00778,ORD01549,C00106,2026-03-10,4,Smooth process from order to delivery.,WhatsApp
+REV00779,ORD01550,C00287,2023-07-28,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00780,ORD01552,C00318,2025-09-01,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00781,ORD01554,C00922,2025-03-13,1,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00782,ORD01555,C00923,2025-10-24,5,"Car arrived in great condition, exactly as described.",Google
+REV00783,ORD01557,C01012,2026-02-01,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00784,ORD01560,C01075,2024-02-17,3,Car is okay but delivery took longer than quoted. Asante sana!,Google
+REV00785,ORD01561,C01005,2025-06-26,2,"Shipping delayed by weeks, no updates from the sales team.",WhatsApp
+REV00786,ORD01564,C00992,2023-04-13,1,"AC faulty on delivery, still waiting for a fix. Asante sana!",Website
+REV00787,ORD01566,C00061,2024-10-03,5,Smooth process from order to delivery.,Website
+REV00788,ORD01567,C01035,2024-11-08,5,"Car arrived in great condition, exactly as described.",Google
+REV00789,ORD01568,C00760,2024-02-26,3,Car is okay but delivery took longer than quoted.,Website
+REV00790,ORD01569,C01183,2025-10-06,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00791,ORD01570,C00217,2026-11-04,4,"Very happy with the Honda Fit, runs perfectly.",Website
+REV00792,ORD01571,C00545,2023-08-24,5,"Car arrived in great condition, exactly as described.",Website
+REV00793,ORD01573,C00105,2025-09-09,1,"AC faulty on delivery, still waiting for a fix.",Email Survey
+REV00794,ORD01578,C00900,2024-11-24,3,Price was fair but a few scratches not mentioned.,Website
+REV00795,ORD01579,C00040,2025-06-07,4,"Very happy with the Toyota Vitz, runs perfectly.",Google
+REV00796,ORD01581,C00293,2025-05-13,5,Fair price compared to other importers.,Email Survey
+REV00797,ORD01583,C01158,2024-09-27,5,"Very happy with the Land Rover Range Rover Sport, runs perfectly.",Website
+REV00798,ORD01584,C00083,2026-06-10,4,Fair price compared to other importers. Ni gari safi sana.,Google
+REV00799,ORD01588,C00697,2024-06-13,2,Mileage seems higher than on the auction sheet.,WhatsApp
+REV00800,ORD01589,C00872,2025-06-30,5,Smooth process from order to delivery.,Google
+REV00801,ORD01590,C00261,2024-11-14,5,"Very happy with the Mazda Demio, runs perfectly.",Google
+REV00802,ORD01591,C01141,2023-12-09,4,"Very happy with the Subaru Impreza, runs perfectly.",Facebook
+REV00803,ORD01592,C00153,2026-04-02,3,"Decent car, paperwork took a while at KRA.",Website
+REV00804,ORD01595,C00613,2024-03-08,5,Good communication throughout the shipping.,WhatsApp
+REV00805,ORD01597,C00194,2023-07-30,4,Fair price compared to other importers.,Website
+REV00806,ORD01598,C00143,2024-08-09,5,Smooth process from order to delivery.,Email Survey
+REV00807,ORD01599,C00528,2026-01-04,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00808,ORD01600,C00437,2026-01-29,2,"Had to pay extra at port, was not told upfront.",Google
+REV00809,ORD01601,C00194,2024-12-16,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV00810,ORD01602,C00851,2023-05-21,4,Fair price compared to other importers.,Email Survey
+REV00811,ORD01605,C00642,2025-11-28,4,"Car arrived in great condition, exactly as described.",Google
+REV00812,ORD01608,C00539,2024-09-08,2,"Waited too long for registration, very frustrating. Asante sana!",WhatsApp
+REV00813,ORD01609,C00400,2023-06-16,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00814,ORD01611,C00154,2025-07-26,2,"AC faulty on delivery, still waiting for a fix.",Facebook
+REV00815,ORD01614,C01063,2024-01-29,2,"Had to pay extra at port, was not told upfront. Cause given: vessel rescheduled.",Website
+REV00816,ORD01615,C00131,2024-01-19,3,Car is okay but delivery took longer than quoted. Ni gari safi sana.,Facebook
+REV00817,ORD01617,C00427,2024-04-21,1,"Shipping delayed by weeks, no updates from the sales team. Cause given: port congestion.",Email Survey
+REV00818,ORD01619,C00224,2024-12-09,4,Fair price compared to other importers.,Facebook
+REV00819,ORD01620,C00212,2024-06-30,3,"Fine overall, would have liked more updates.",WhatsApp
+REV00820,ORD01621,C01169,2026-05-03,3,Price was fair but a few scratches not mentioned.,Website
+REV00821,ORD01623,C00208,2024-04-27,4,Fair price compared to other importers.,Facebook
+REV00822,ORD01624,C00478,2024-09-20,4,,Facebook
+REV00823,ORD01627,C00210,2024-03-11,5,"Very happy with the Mazda CX-5, runs perfectly.",Website
+REV00824,ORD01631,C00904,2023-06-01,1/5,"Waited too long for registration, very frustrating.",Facebook
+REV00825,ORD01632,C01026,2025-03-13,4/5,Fair price compared to other importers.,WhatsApp
+REV00826,ORD01634,C00721,2026-11-04,1,"Waited too long for registration, very frustrating.",Website
+REV00827,ORD01635,C00488,2025-02-03,3,"Decent car, paperwork took a while at KRA.",Website
+REV00828,ORD01637,C00236,2026-08-16,4,Smooth process from order to delivery.,Facebook
+REV00829,ORD01638,C00470,2026-01-14,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00830,ORD01639,C01148,2024-07-24,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00831,ORD01640,C00142,2026-09-28,4/5,"Car arrived in great condition, exactly as described.",Website
+REV00832,ORD01642,C00871,2026-06-17,3,Price was fair but a few scratches not mentioned.,Facebook
+REV00833,ORD01643,C00856,2025-08-24,5,Fair price compared to other importers.,Facebook
+REV00834,ORD01645,C00005,2026-07-25,3,Car is okay but delivery took longer than quoted.,WhatsApp
+REV00835,ORD01647,C00422,2023-06-09,5,Good communication throughout the shipping.,Email Survey
+REV00836,ORD01653,C01103,2026-11-04,3,"Decent car, paperwork took a while at KRA. Cause given: bad weather.",Facebook
+REV00837,ORD01655,C00692,2025-01-01,1,"AC faulty on delivery, still waiting for a fix.",Website
+REV00838,ORD01656,C00061,2025-09-05,2,"Waited too long for registration, very frustrating.",Website
+REV00839,ORD01657,C00568,2025-02-26,4,"Very happy with the Honda Vezel, runs perfectly.",Email Survey
+REV00840,ORD01664,C00837,2026-11-04,5,Good communication throughout the shipping.,Website
+REV00841,ORD01665,C00567,2026-02-10,4,Fair price compared to other importers.,Website
+REV00842,ORD01676,C00676,2025-04-26,1,"AC faulty on delivery, still waiting for a fix.",Email Survey
+REV00843,ORD01678,C00719,2026-06-29,2,Mileage seems higher than on the auction sheet. Cause given: strike action.,Google
+REV00844,ORD01679,C00293,2025-04-06,5,"Very happy with the Honda Fit, runs perfectly.",WhatsApp
+REV00845,ORD01680,C00224,2026-11-04,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00846,ORD01682,C00675,2026-10-02,4,Smooth process from order to delivery.,Email Survey
+REV00847,ORD01686,C00904,2025-03-30,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00848,ORD01687,C01156,2025-12-03,5,Fair price compared to other importers.,Facebook
+REV00849,ORD01689,C00494,2025-11-01,3,"Decent car, paperwork took a while at KRA.",Website
+REV00850,ORD01690,C00943,2025-01-16,1,Mileage seems higher than on the auction sheet. Cause given: bad weather.,Facebook
+REV00851,ORD01692,C00692,2026-02-12,5,"Very happy with the Volkswagen Golf, runs perfectly.",Google
+REV00852,ORD01693,C00142,2026-07-28,3,"Fine overall, would have liked more updates.",Facebook
+REV00853,ORD01695,C00344,2025-10-12,1,"Had to pay extra at port, was not told upfront.",Email Survey
+REV00854,ORD01699,C00858,2026-08-04,4,Smooth process from order to delivery.,Website
+REV00855,ORD01701,C00784,2026-10-22,4,Smooth process from order to delivery.,WhatsApp
+REV00856,ORD01704,C00244,2025-02-04,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV00857,ORD01707,C01085,2025-01-20,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00858,ORD01708,C00383,2026-01-26,3,Car is okay but delivery took longer than quoted. Cause given: strike action.,WhatsApp
+REV00859,ORD01709,C00185,2023-08-01,5,Fair price compared to other importers.,Website
+REV00860,ORD01710,C00291,2024-11-29,5,Smooth process from order to delivery. Sio mbaya.,Email Survey
+REV00861,ORD01711,C00886,2025-08-30,5,Good communication throughout the shipping.,WhatsApp
+REV00862,ORD01712,C00405,2026-02-11,5,Good communication throughout the shipping.,Google
+REV00863,ORD01718,C00278,2023-08-12,5,Good communication throughout the shipping.,Facebook
+REV00864,ORD01720,C01168,2026-06-24,2,"Shipping delayed by weeks, no updates from the sales team.",Google
+REV00865,ORD01721,C00162,2026-01-27,3,"Fine overall, would have liked more updates.",Email Survey
+REV00866,ORD01722,C00369,2026-08-04,5,Fair price compared to other importers.,Google
+REV00867,ORD01723,C00275,2025-01-17,5,"Very happy with the Lexus RX 350, runs perfectly.",Google
+REV00868,ORD01725,C01006,2026-01-05,5,"Very happy with the Mazda Demio, runs perfectly. Sio mbaya.",Facebook
+REV00869,ORD01726,C00889,2024-11-25,3,"Decent car, paperwork took a while at KRA. Cause given: bad weather.",Website
+REV00870,ORD01728,C00010,2025-06-08,1,"Had to pay extra at port, was not told upfront. Cause given: strike action.",Website
+REV00871,ORD01731,C00326,2023-08-16,3,"Decent car, paperwork took a while at KRA. Poa kabisa.",Facebook
+REV00872,ORD01734,C00029,2025-04-19,4,"Very happy with the Nissan X-Trail, runs perfectly.",Google
+REV00873,ORD01735,C00996,2023-12-21,5,"Very happy with the Toyota Noah, runs perfectly.",Facebook
+REV00874,ORD01736,C00212,2024-06-02,1,Mileage seems higher than on the auction sheet.,Google
+REV00875,ORD01737,C00126,2026-09-07,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00876,ORD01739,C00608,2025-09-28,3,"Decent car, paperwork took a while at KRA. Cause given: documentation error. Poa kabisa.",Google
+REV00877,ORD01741,C00846,2025-09-18,3,"Decent car, paperwork took a while at KRA.",Website
+REV00878,ORD01746,C00490,2024-01-18,5,Smooth process from order to delivery.,Google
+REV00879,ORD01747,C00433,2025-01-19,2,"Shipping delayed by weeks, no updates from the sales team.",WhatsApp
+REV00880,ORD01750,C00694,2024-09-01,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV00881,ORD01751,C01145,2024-05-24,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV00882,ORD01752,C00760,2025-12-01,4,Fair price compared to other importers.,Google
+REV00883,ORD01753,C00800,2025-09-20,5,Fair price compared to other importers.,Google
+REV00884,ORD01754,C00510,2025-09-25,1,"Waited too long for registration, very frustrating.",Google
+REV00885,ORD01756,C00007,2026-06-09,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV00886,ORD01757,C01105,2024-10-17,5,Good communication throughout the shipping. Poa kabisa.,Website
+REV00887,ORD01760,C00823,2024-03-31,4,"Car arrived in great condition, exactly as described.",Facebook
+REV00888,ORD01765,C00576,2023-05-25,5,Smooth process from order to delivery.,Google
+REV00889,ORD01766,C00451,2025-10-18,3,"Fine overall, would have liked more updates.",Google
+REV00890,ORD01770,C00253,2026-05-10,1,Mileage seems higher than on the auction sheet.,Email Survey
+REV00891,ORD01771,C00662,2023-12-01,4,Fair price compared to other importers.,Website
+REV00892,ORD01774,C00094,2025-03-08,4/5,Good communication throughout the shipping.,Email Survey
+REV00893,ORD01775,C01091,2024-03-16,4,Fair price compared to other importers.,Email Survey
+REV00894,ORD01776,C00847,2026-07-16,5,Good communication throughout the shipping. Sio mbaya.,Email Survey
+REV00895,ORD01777,C00951,2025-10-04,5,"Car arrived in great condition, exactly as described.",Facebook
+REV00896,ORD01778,C00490,2024-03-07,3,"Fine overall, would have liked more updates.",Website
+REV00897,ORD01779,C00074,2026-08-01,1,"  Shipping delayed by weeks, no updates from the sales team. Cause given: kra system downtime.  ",WhatsApp
+REV00898,ORD01780,C00207,2025-01-02,3,"Fine overall, would have liked more updates.",Website
+REV00899,ORD01781,C00334,2024-12-19,4,"Car arrived in great condition, exactly as described.",Google
+REV00900,ORD01784,C00845,2025-07-19,2,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00901,ORD01785,C00951,2026-06-04,3,Car is okay but delivery took longer than quoted.,Google
+REV00902,ORD01787,C00755,2026-08-08,4,Fair price compared to other importers.,Email Survey
+REV00903,ORD01788,C00750,2023-06-27,5,Good communication throughout the shipping.,Website
+REV00904,ORD01789,C00417,2025-02-17,4,Good communication throughout the shipping.,Facebook
+REV00905,ORD01792,C01159,2026-01-20,4,Good communication throughout the shipping. Poa kabisa.,Facebook
+REV00906,ORD01793,C00693,2024-07-21,2,"AC faulty on delivery, still waiting for a fix. Cause given: transshipment delay.",WhatsApp
+REV00907,ORD01796,C00477,2024-02-20,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV00908,ORD01797,C00176,2025-07-30,5,"Car arrived in great condition, exactly as described.",Google
+REV00909,ORD01798,C00510,2023-07-23,4,"Very happy with the Honda Fit, runs perfectly.",Google
+REV00910,ORD01799,C01023,2025-04-26,4,Good communication throughout the shipping.,Website
+REV00911,ORD01800,C00342,2025-05-09,3,"Fine overall, would have liked more updates.",WhatsApp
+REV00912,ORD01801,C00856,2024-06-24,4,Fair price compared to other importers.,Website
+REV00913,ORD01802,C00891,2026-04-14,3,"Fine overall, would have liked more updates.",Facebook
+REV00914,ORD01804,C00290,2025-12-30,4,Good communication throughout the shipping.,Website
+REV00915,ORD01805,C00197,2026-10-01,5,"Very happy with the Nissan Patrol, runs perfectly.",Website
+REV00916,ORD01808,C00240,2026-03-11,4,"Very happy with the Nissan Note, runs perfectly.",WhatsApp
+REV00917,ORD01812,C00288,2023-06-19,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV00918,ORD01815,C01138,2026-09-05,4,,Google
+REV00919,ORD01816,C00418,2025-12-06,5,Smooth process from order to delivery.,Google
+REV00920,ORD01818,C01153,2026-11-04,1,"Had to pay extra at port, was not told upfront.",Website
+REV00921,ORD01820,C00881,2025-08-09,3,"Fine overall, would have liked more updates.",Google
+REV00922,ORD01822,C00795,2026-03-17,5,"Very happy with the Nissan Juke, runs perfectly.",Website
+REV00923,ORD01823,C00224,2024-09-23,1,Mileage seems higher than on the auction sheet.,Website
+REV00924,ORD01824,C00221,2025-05-06,2,Mileage seems higher than on the auction sheet. Cause given: documentation error.,Email Survey
+REV00925,ORD01827,C00381,2026-07-05,1,"Waited too long for registration, very frustrating. Cause given: documentation error.",Website
+REV00926,ORD01829,C00077,2025-12-24,4,Mileage matched the auction sheet. Honest dealer. Ni gari safi sana.,WhatsApp
+REV00927,ORD01834,C00369,2026-01-13,5,"  Car arrived in great condition, exactly as described.  ",Facebook
+REV00928,ORD01836,C00240,2026-11-04,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV00929,ORD01838,C00442,2024-06-21,2,"AC faulty on delivery, still waiting for a fix.",Email Survey
+REV00930,ORD01839,C00995,2026-10-22,3,Car is okay but delivery took longer than quoted.,Website
+REV00931,ORD01841,C00554,2025-03-22,5,Fair price compared to other importers.,Website
+REV00932,ORD01846,C00213,2026-01-27,5,Smooth process from order to delivery.,Google
+REV00933,ORD01847,C01149,2026-05-07,4,"Car arrived in great condition, exactly as described.",Google
+REV00934,ORD01850,C01035,2024-03-24,3,"Fine overall, would have liked more updates.",Facebook
+REV00935,ORD01853,C00742,2023-05-21,3,Price was fair but a few scratches not mentioned. Cause given: documentation error.,WhatsApp
+REV00936,ORD01854,C00960,2026-02-20,5,Fair price compared to other importers. Sio mbaya.,Google
+REV00937,ORD01855,C00097,2024-07-17,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00938,ORD01857,C00529,2026-06-12,2,"AC faulty on delivery, still waiting for a fix. Cause given: strike action.",WhatsApp
+REV00939,ORD01859,C00024,2023-10-28,5,,Website
+REV00940,ORD01861,C01141,2025-07-20,3,Car is okay but delivery took longer than quoted.,Facebook
+REV00941,ORD01863,C00459,2024-12-29,5,"Car arrived in great condition, exactly as described.",Google
+REV00942,ORD01867,C00721,2026-06-01,4,"Very happy with the Toyota Harrier, runs perfectly.",Facebook
+REV00943,ORD01871,C00430,2026-11-04,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00944,ORD01872,C00369,2026-07-22,4,Fair price compared to other importers.,Google
+REV00945,ORD01876,C00759,2026-05-31,3,Price was fair but a few scratches not mentioned.,Website
+REV00946,ORD01878,C00165,2025-11-24,5,Good communication throughout the shipping.,Website
+REV00947,ORD01880,C00983,2026-05-02,4,Good communication throughout the shipping.,WhatsApp
+REV00948,ORD01882,C00194,2026-07-17,2,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV00949,ORD01883,C00684,2023-09-30,2,"Had to pay extra at port, was not told upfront.",Facebook
+REV00950,ORD01887,C00023,2025-12-23,4,"Very happy with the Toyota Hilux Double Cab, runs perfectly.",Website
+REV00951,ORD01890,C00279,2023-09-24,3,"Decent car, paperwork took a while at KRA.",Google
+REV00952,ORD01891,C01140,2026-09-29,4,"Car arrived in great condition, exactly as described.",Google
+REV00953,ORD01893,C00039,2026-09-28,2,"AC faulty on delivery, still waiting for a fix. Cause given: strike action.",Email Survey
+REV00954,ORD01898,C00198,2026-01-22,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00955,ORD01900,C00293,2024-08-31,3,"Decent car, paperwork took a while at KRA. Asante sana!",Google
+REV00956,ORD01901,C00328,2024-11-23,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV00957,ORD01904,C00788,2024-11-04,2,"Had to pay extra at port, was not told upfront.",Website
+REV00958,ORD01906,C00161,2025-11-17,4,Fair price compared to other importers.,WhatsApp
+REV00959,ORD01908,C00888,2025-07-16,4,Fair price compared to other importers.,Google
+REV00960,ORD01910,C01129,2024-06-05,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV00961,ORD01912,C00449,2024-07-26,4,  Fair price compared to other importers.  ,Website
+REV00962,ORD01914,C00534,2025-02-06,1,Mileage seems higher than on the auction sheet.,Facebook
+REV00963,ORD01915,C00404,2026-01-04,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV00964,ORD01917,C00122,2023-12-05,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00965,ORD01918,C00663,2025-10-02,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00966,ORD01919,C00900,2025-03-19,4,Good communication throughout the shipping.,Email Survey
+REV00967,ORD01922,C00040,2026-11-04,3,Price was fair but a few scratches not mentioned.,Website
+REV00968,ORD01924,C00621,2026-09-17,1,Mileage seems higher than on the auction sheet.,Facebook
+REV00969,ORD01925,C00965,2024-08-02,4,Good communication throughout the shipping.,Website
+REV00970,ORD01926,C00950,2026-11-04,3,Car is okay but delivery took longer than quoted. Poa kabisa.,Website
+REV00971,ORD01928,C00632,2024-11-09,4/5,Good communication throughout the shipping.,Website
+REV00972,ORD01932,C00165,2024-11-12,5,Smooth process from order to delivery.,Google
+REV00973,ORD01933,C00567,2025-11-09,3,Price was fair but a few scratches not mentioned.,Facebook
+REV00974,ORD01934,C00968,2024-09-24,3,"Fine overall, would have liked more updates.",Facebook
+REV00975,ORD01935,C00214,2026-08-08,3,"Fine overall, would have liked more updates. Ni gari safi sana.",Website
+REV00976,ORD01936,C00306,2025-10-18,5,Smooth process from order to delivery.,Website
+REV00977,ORD01938,C01167,2026-06-24,2/5,"Waited too long for registration, very frustrating.",Google
+REV00978,ORD01939,C00536,2024-05-24,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV00979,ORD01941,C00490,2026-10-23,5,Fair price compared to other importers.,Email Survey
+REV00980,ORD01942,C00648,2023-08-17,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV00981,ORD01943,C00529,2026-11-02,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV00982,ORD01944,C00498,2026-09-22,3,"Decent car, paperwork took a while at KRA.",Google
+REV00983,ORD01946,C00354,2026-03-11,3,"Fine overall, would have liked more updates. Cause given: port congestion.",Facebook
+REV00984,ORD01948,C00498,2023-10-13,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV00985,ORD01950,C01044,2026-10-16,5,Good communication throughout the shipping.,Facebook
+REV00986,ORD01951,C00288,2025-02-14,3,"Decent car, paperwork took a while at KRA.",WhatsApp
+REV00987,ORD01952,C00307,2025-01-02,5,"Very happy with the Toyota Fielder, runs perfectly.",WhatsApp
+REV00988,ORD01954,C00145,2026-09-27,4,"Very happy with the Nissan Note, runs perfectly.",Google
+REV00989,ORD01956,C01070,2024-04-04,5,Good communication throughout the shipping.,Website
+REV00990,ORD01957,C00339,2025-05-09,4,"Very happy with the Nissan Juke, runs perfectly.",Facebook
+REV00991,ORD01960,C01113,2026-05-08,5,Fair price compared to other importers.,Facebook
+REV00992,ORD01961,C00306,2024-08-23,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV00993,ORD01963,C00528,2025-01-14,4,Fair price compared to other importers.,Google
+REV00994,ORD01965,C00133,2026-03-09,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV00995,ORD01967,C00941,2026-11-01,1,Mileage seems higher than on the auction sheet.,Facebook
+REV00996,ORD01969,C00697,2024-06-07,1,"Had to pay extra at port, was not told upfront. Cause given: vessel rescheduled.",Facebook
+REV00997,ORD01971,C00692,2025-03-16,4,Fair price compared to other importers.,Facebook
+REV00998,ORD01972,C00874,2025-10-24,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV00999,ORD01975,C01101,2026-01-09,5,"Car arrived in great condition, exactly as described.",Website
+REV01000,ORD01976,C00237,2025-01-03,3,"Decent car, paperwork took a while at KRA.",Website
+REV01001,ORD01978,C00343,2025-04-17,4,Good communication throughout the shipping.,Facebook
+REV01002,ORD01980,C00372,2024-02-13,3,Price was fair but a few scratches not mentioned. Cause given: kra system downtime.,Website
+REV01003,ORD01983,C00010,2025-02-20,5,Good communication throughout the shipping.,Facebook
+REV01004,ORD01986,C00851,2026-03-14,3,Price was fair but a few scratches not mentioned.,Facebook
+REV01005,ORD01989,C00570,2023-09-03,3,"Fine overall, would have liked more updates. Poa kabisa.",Google
+REV01006,ORD01990,C00606,2023-07-06,3,"Fine overall, would have liked more updates.",Website
+REV01007,ORD01991,C01159,2024-01-15,2,"AC faulty on delivery, still waiting for a fix.",WhatsApp
+REV01008,ORD01994,C00733,2024-12-24,2,"Waited too long for registration, very frustrating.",Google
+REV01009,ORD01995,C01066,2026-11-01,2,"AC faulty on delivery, still waiting for a fix. Asante sana!",Website
+REV01010,ORD02002,C00141,2025-11-28,4,Fair price compared to other importers.,WhatsApp
+REV01011,ORD02003,C00088,2026-07-03,4,"Very happy with the Toyota Fortuner, runs perfectly.",Website
+REV01012,ORD02005,C00392,2024-05-09,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV01013,ORD02006,C01117,2023-11-08,4,Fair price compared to other importers.,Website
+REV01014,ORD02008,C00647,2025-10-27,4,Fair price compared to other importers.,Website
+REV01015,ORD02009,C00688,2025-10-29,2,"AC faulty on delivery, still waiting for a fix. Cause given: transshipment delay.",Facebook
+REV01016,ORD02018,C00724,2025-12-09,5,"Car arrived in great condition, exactly as described.",Google
+REV01017,ORD02021,C00796,2023-10-10,2,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV01018,ORD02023,C00906,2025-01-27,3,"Decent car, paperwork took a while at KRA.",Google
+REV01019,ORD02025,C00928,2024-11-14,4,"Car arrived in great condition, exactly as described.",Website
+REV01020,ORD02026,C01006,2024-01-16,1,Mileage seems higher than on the auction sheet.,Website
+REV01021,ORD02030,C01105,2024-11-22,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01022,ORD02031,C00153,2025-06-25,2,Mileage seems higher than on the auction sheet.,Email Survey
+REV01023,ORD02032,C00025,2024-01-04,5/5,"Very happy with the Nissan Juke, runs perfectly.",Google
+REV01024,ORD02036,C00606,2026-02-24,5,"Car arrived in great condition, exactly as described.",Website
+REV01025,ORD02037,C00572,2024-07-15,5,"Car arrived in great condition, exactly as described.",Website
+REV01026,ORD02043,C01111,2026-02-28,4,Smooth process from order to delivery.,Facebook
+REV01027,ORD02044,C00433,2024-09-16,3,Car is okay but delivery took longer than quoted. Cause given: bad weather. Sio mbaya.,Google
+REV01028,ORD02045,C00941,2024-12-28,5,,Email Survey
+REV01029,ORD02046,C00085,2024-11-01,1,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV01030,ORD02047,C01105,2024-06-19,4,Good communication throughout the shipping.,Google
+REV01031,ORD02051,C00221,2025-07-10,4,"Car arrived in great condition, exactly as described.",Google
+REV01032,ORD02052,C01162,2023-05-20,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01033,ORD02053,C00379,2025-03-15,2,"Shipping delayed by weeks, no updates from the sales team.",Facebook
+REV01034,ORD02054,C00316,2024-07-25,3,Car is okay but delivery took longer than quoted.,Google
+REV01035,ORD02057,C00116,2023-05-28,5,Good communication throughout the shipping.,Email Survey
+REV01036,ORD02058,C01057,2026-03-06,3,Price was fair but a few scratches not mentioned. Cause given: port congestion.,Email Survey
+REV01037,ORD02062,C00355,2025-09-14,5,"Car arrived in great condition, exactly as described. Sio mbaya.",Email Survey
+REV01038,ORD02064,C00300,2023-07-29,5,"Very happy with the Mitsubishi Outlander, runs perfectly.",Google
+REV01039,ORD02065,C00144,2024-05-11,5,Good communication throughout the shipping.,Email Survey
+REV01040,ORD02066,C00641,2026-06-24,4,Smooth process from order to delivery.,Website
+REV01041,ORD02069,C00551,2024-11-07,3,"Decent car, paperwork took a while at KRA.",Website
+REV01042,ORD02070,C01005,2025-05-19,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV01043,ORD02079,C00492,2023-07-18,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV01044,ORD02080,C01031,2026-04-06,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01045,ORD02082,C00714,2023-09-28,2,"AC faulty on delivery, still waiting for a fix.",WhatsApp
+REV01046,ORD02083,C00642,2026-03-27,2,"Had to pay extra at port, was not told upfront. Asante sana!",Email Survey
+REV01047,ORD02084,C00498,2023-12-27,3,Car is okay but delivery took longer than quoted. Cause given: bad weather.,Website
+REV01048,ORD02086,C01051,2024-01-05,5,Smooth process from order to delivery.,Facebook
+REV01049,ORD02088,C01030,2025-05-13,5,Smooth process from order to delivery.,WhatsApp
+REV01050,ORD02093,C00415,2024-08-12,4,"Very happy with the Honda Vezel, runs perfectly.",Google
+REV01051,ORD02095,C00434,2025-03-30,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV01052,ORD02096,C00941,2023-12-07,4,Fair price compared to other importers.,Google
+REV01053,ORD02099,C00306,2026-10-19,2,"Had to pay extra at port, was not told upfront.",Website
+REV01054,ORD02101,C00278,2023-12-29,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV01055,ORD02102,C00275,2026-07-08,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01056,ORD02107,C00626,2026-08-25,3,"Decent car, paperwork took a while at KRA.",WhatsApp
+REV01057,ORD02109,C00663,2025-01-16,4,"Very happy with the Toyota Noah, runs perfectly.",WhatsApp
+REV01058,ORD02110,C01159,2023-08-01,4,"Car arrived in great condition, exactly as described.",Website
+REV01059,ORD02111,C01069,2026-06-27,5,Smooth process from order to delivery.,Facebook
+REV01060,ORD02112,C00010,2026-11-04,4,Smooth process from order to delivery.,Website
+REV01061,ORD02113,C00896,2026-06-16,5,Fair price compared to other importers. Poa kabisa.,Website
+REV01062,ORD02115,C01172,2023-12-24,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV01063,ORD02116,C00194,2026-08-28,4,Smooth process from order to delivery.,Google
+REV01064,ORD02117,C00342,2024-06-02,5,"Very happy with the Honda Fit, runs perfectly.",Website
+REV01065,ORD02118,C00905,2026-02-25,5,"Very happy with the Honda Fit, runs perfectly.",Google
+REV01066,ORD02119,C01180,2023-11-12,2,"Waited too long for registration, very frustrating.",Facebook
+REV01067,ORD02123,C00546,2024-09-11,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01068,ORD02128,C00991,2026-01-04,4,Smooth process from order to delivery.,WhatsApp
+REV01069,ORD02129,C00065,2024-03-23,2,Mileage seems higher than on the auction sheet.,Facebook
+REV01070,ORD02130,C01148,2024-10-25,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01071,ORD02132,C00991,2023-10-20,5,Fair price compared to other importers.,Facebook
+REV01072,ORD02133,C00270,2026-06-23,4,"Very happy with the Mazda CX-5, runs perfectly.",Google
+REV01073,ORD02134,C01009,2026-09-04,1,Mileage seems higher than on the auction sheet.,Website
+REV01074,ORD02135,C00326,2024-05-31,3,Car is okay but delivery took longer than quoted. Cause given: documentation error.,Email Survey
+REV01075,ORD02136,C00719,2025-02-11,5,Smooth process from order to delivery.,Website
+REV01076,ORD02141,C00198,2025-05-24,4,Good communication throughout the shipping.,Website
+REV01077,ORD02142,C00859,2026-09-03,4,  Smooth process from order to delivery.  ,Google
+REV01078,ORD02143,C01138,2026-06-25,5,"Very happy with the Toyota Passo, runs perfectly.",Google
+REV01079,ORD02144,C00892,2023-10-26,4,Smooth process from order to delivery.,Website
+REV01080,ORD02147,C01115,2024-03-10,5,Good communication throughout the shipping.,Email Survey
+REV01081,ORD02152,C00727,2024-07-02,5,Smooth process from order to delivery.,Facebook
+REV01082,ORD02153,C00297,2025-05-05,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01083,ORD02154,C00859,2025-08-07,2,Mileage seems higher than on the auction sheet.,Facebook
+REV01084,ORD02155,C00602,2025-05-21,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV01085,ORD02159,C00958,2023-08-27,3,Price was fair but a few scratches not mentioned.,Google
+REV01086,ORD02162,C00760,2024-09-26,5,"Car arrived in great condition, exactly as described. Asante sana!",Google
+REV01087,ORD02164,C00123,2026-07-20,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01088,ORD02166,C01097,2026-07-30,5,"Car arrived in great condition, exactly as described.",Google
+REV01089,ORD02167,C00071,2023-06-09,4,"Car arrived in great condition, exactly as described.",Website
+REV01090,ORD02171,C00896,2026-05-28,1,"Shipping delayed by weeks, no updates from the sales team. Cause given: customs inspection.",Email Survey
+REV01091,ORD02173,C00877,2025-01-14,3,"Fine overall, would have liked more updates. Ni gari safi sana.",Google
+REV01092,ORD02174,C00296,2024-09-29,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV01093,ORD02175,C00786,2023-06-14,5,Fair price compared to other importers.,Website
+REV01094,ORD02182,C00021,2023-06-05,5,,WhatsApp
+REV01095,ORD02183,C01016,2024-11-21,2,"Had to pay extra at port, was not told upfront. Cause given: kra system downtime.",WhatsApp
+REV01096,ORD02187,C00872,2025-06-29,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01097,ORD02188,C00996,2026-03-07,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01098,ORD02189,C00135,2025-04-19,3,"Fine overall, would have liked more updates.",Website
+REV01099,ORD02190,C01191,2026-05-27,5,Fair price compared to other importers.,WhatsApp
+REV01100,ORD02194,C00872,2025-06-18,4,  Mileage matched the auction sheet. Honest dealer.  ,Website
+REV01101,ORD02195,C00565,2026-10-03,3,"Decent car, paperwork took a while at KRA. Cause given: customs inspection.",Facebook
+REV01102,ORD02198,C00694,2024-12-22,3,Price was fair but a few scratches not mentioned.,Facebook
+REV01103,ORD02199,C00236,2025-07-20,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV01104,ORD02200,C00047,2025-05-03,4,Smooth process from order to delivery.,Facebook
+REV01105,ORD02202,C00644,2026-01-16,4,"Car arrived in great condition, exactly as described.",Website
+REV01106,ORD02205,C00821,2025-11-01,5,Smooth process from order to delivery.,Google
+REV01107,ORD02206,C00363,2023-10-08,5,Good communication throughout the shipping.,Facebook
+REV01108,ORD02208,C00973,2026-03-15,4,Smooth process from order to delivery.,Google
+REV01109,ORD02209,C00771,2023-09-26,3,Price was fair but a few scratches not mentioned. Cause given: port congestion.,Website
+REV01110,ORD02210,C00760,2025-08-30,3,Car is okay but delivery took longer than quoted.,Website
+REV01111,ORD02211,C00204,2026-06-20,4,Smooth process from order to delivery.,Website
+REV01112,ORD02212,C00951,2025-03-31,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01113,ORD02213,C01139,2026-11-04,4,Fair price compared to other importers.,Email Survey
+REV01114,ORD02215,C00857,2025-05-02,1,"Waited too long for registration, very frustrating. Cause given: transshipment delay.",Website
+REV01115,ORD02216,C00372,2025-08-09,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01116,ORD02218,C00726,2024-12-11,2,"Shipping delayed by weeks, no updates from the sales team.",Facebook
+REV01117,ORD02220,C00523,2025-05-08,5,Good communication throughout the shipping.,Website
+REV01118,ORD02221,C00747,2025-04-22,1,"Had to pay extra at port, was not told upfront.",Facebook
+REV01119,ORD02222,C00415,2024-06-17,5,Smooth process from order to delivery.,Email Survey
+REV01120,ORD02223,C01003,2026-04-24,4,Smooth process from order to delivery.,Website
+REV01121,ORD02224,C00640,2024-07-03,1,"AC faulty on delivery, still waiting for a fix. Cause given: customs inspection.",WhatsApp
+REV01122,ORD02225,C01180,2025-07-29,2,,Website
+REV01123,ORD02227,C00919,2024-10-15,5/5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01124,ORD02228,C00236,2024-02-17,2,"Shipping delayed by weeks, no updates from the sales team. Cause given: port congestion.",Google
+REV01125,ORD02229,C00277,2025-05-01,5,"Very happy with the Toyota Passo, runs perfectly.",Website
+REV01126,ORD02231,C00437,2026-01-01,2,"Shipping delayed by weeks, no updates from the sales team.",Email Survey
+REV01127,ORD02232,C00437,2025-06-22,1,Mileage seems higher than on the auction sheet. Cause given: bad weather.,WhatsApp
+REV01128,ORD02237,C00372,2025-04-22,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01129,ORD02238,C00935,2026-03-12,5,"Very happy with the Lexus RX 350, runs perfectly.",Website
+REV01130,ORD02239,C00174,2024-08-26,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01131,ORD02240,C00644,2023-08-27,5,"Very happy with the Toyota Vitz, runs perfectly.",Google
+REV01132,ORD02241,C00872,2024-08-23,5,Fair price compared to other importers.,Website
+REV01133,ORD02243,C00689,2026-08-27,2,"Had to pay extra at port, was not told upfront.",Google
+REV01134,ORD02244,C00700,2023-05-11,3,"Decent car, paperwork took a while at KRA.",Website
+REV01135,ORD02245,C01132,2023-11-30,3,Car is okay but delivery took longer than quoted.,Google
+REV01136,ORD02247,C00048,2024-03-18,4,Smooth process from order to delivery.,Email Survey
+REV01137,ORD02249,C00626,2023-04-30,4,Good communication throughout the shipping.,Google
+REV01138,ORD02250,C01101,2025-10-30,4,Smooth process from order to delivery.,Google
+REV01139,ORD02253,C00018,2026-07-31,4,"Very happy with the Subaru Forester, runs perfectly.",Website
+REV01140,ORD02254,C00323,2024-03-07,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV01141,ORD02257,C00539,2025-11-28,5,Smooth process from order to delivery.,Google
+REV01142,ORD02260,C00655,2025-07-02,5,Smooth process from order to delivery.,Email Survey
+REV01143,ORD02262,C00094,2024-12-22,5,Fair price compared to other importers.,Google
+REV01144,ORD02263,C00372,2026-10-05,4,Smooth process from order to delivery.,WhatsApp
+REV01145,ORD02264,C01169,2025-11-16,3,Price was fair but a few scratches not mentioned.,Google
+REV01146,ORD02266,C00132,2026-03-20,3,Car is okay but delivery took longer than quoted. Cause given: strike action.,Website
+REV01147,ORD02267,C00329,2023-12-06,2,"Had to pay extra at port, was not told upfront.",Website
+REV01148,ORD02268,C00479,2025-08-15,1,"AC faulty on delivery, still waiting for a fix. Cause given: kra system downtime.",Website
+REV01149,ORD02269,C00311,2025-09-04,3/5,Car is okay but delivery took longer than quoted. Asante sana!,Website
+REV01150,ORD02271,C00287,2026-06-02,5,Good communication throughout the shipping. Asante sana!,Google
+REV01151,ORD02275,C00917,2024-08-04,5,Fair price compared to other importers.,Website
+REV01152,ORD02276,C00566,2025-05-09,5,Good communication throughout the shipping.,Email Survey
+REV01153,ORD02277,C01140,2026-09-16,4,"Very happy with the Subaru Impreza, runs perfectly.",Website
+REV01154,ORD02278,C00448,2023-10-12,3,Car is okay but delivery took longer than quoted.,Facebook
+REV01155,ORD02280,C00214,2025-06-04,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV01156,ORD02281,C00339,2024-08-31,2,"AC faulty on delivery, still waiting for a fix.",Google
+REV01157,ORD02283,C00277,2023-08-10,4,Fair price compared to other importers.,Google
+REV01158,ORD02284,C00314,2024-08-02,1,Mileage seems higher than on the auction sheet.,Google
+REV01159,ORD02285,C00576,2024-10-01,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV01160,ORD02286,C00538,2025-04-16,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01161,ORD02289,C00366,2024-03-29,4,"Very happy with the Honda Fit, runs perfectly.",Google
+REV01162,ORD02291,C00637,2025-03-21,2,"Had to pay extra at port, was not told upfront.",Google
+REV01163,ORD02292,C01169,2026-10-15,5,Fair price compared to other importers.,Email Survey
+REV01164,ORD02293,C01174,2025-12-02,3,Price was fair but a few scratches not mentioned.,Email Survey
+REV01165,ORD02297,C00279,2025-10-12,4,"Car arrived in great condition, exactly as described.",Google
+REV01166,ORD02299,C00779,2024-01-27,3,"Decent car, paperwork took a while at KRA.",Google
+REV01167,ORD02303,C00692,2023-07-01,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV01168,ORD02306,C00228,2025-09-23,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV01169,ORD02307,C00929,2026-06-12,5,Fair price compared to other importers.,Google
+REV01170,ORD02311,C00485,2025-12-25,5,Fair price compared to other importers.,Website
+REV01171,ORD02312,C00342,2024-11-19,1,"Had to pay extra at port, was not told upfront.",Website
+REV01172,ORD02313,C00459,2026-05-23,5,Fair price compared to other importers.,Facebook
+REV01173,ORD02314,C00987,2025-12-17,1,"AC faulty on delivery, still waiting for a fix.",WhatsApp
+REV01174,ORD02319,C00212,2026-02-05,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01175,ORD02320,C00595,2025-09-03,5,Fair price compared to other importers.,WhatsApp
+REV01176,ORD02321,C00144,2024-06-08,1,"Shipping delayed by weeks, no updates from the sales team.",Google
+REV01177,ORD02323,C00573,2025-08-25,2,"AC faulty on delivery, still waiting for a fix. Cause given: vessel rescheduled.",WhatsApp
+REV01178,ORD02325,C00765,2023-04-13,4,Fair price compared to other importers.,Website
+REV01179,ORD02327,C01150,2025-01-20,5,"Very happy with the Toyota Passo, runs perfectly.",Website
+REV01180,ORD02328,C00199,2025-07-13,5,Good communication throughout the shipping.,Google
+REV01181,ORD02329,C01008,2023-07-31,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV01182,ORD02330,C00434,2025-05-07,5,Good communication throughout the shipping.,Email Survey
+REV01183,ORD02331,C00323,2026-07-29,5,Smooth process from order to delivery.,Google
+REV01184,ORD02334,C01197,2025-07-15,5,"Very happy with the Nissan Patrol, runs perfectly.",Facebook
+REV01185,ORD02335,C01006,2024-04-01,4,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01186,ORD02337,C00778,2023-09-02,5,"Very happy with the Honda Vezel, runs perfectly.",Google
+REV01187,ORD02343,C01094,2024-04-13,5,Fair price compared to other importers.,WhatsApp
+REV01188,ORD02344,C00077,2025-10-17,4,"Very happy with the Mazda Demio, runs perfectly.",Google
+REV01189,ORD02347,C00469,2024-07-21,5/5,Smooth process from order to delivery. Poa kabisa.,Website
+REV01190,ORD02349,C00086,2024-04-11,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01191,ORD02350,C00246,2026-06-01,2,"Shipping delayed by weeks, no updates from the sales team.",Email Survey
+REV01192,ORD02351,C01122,2025-09-27,4,"Car arrived in great condition, exactly as described.",Email Survey
+REV01193,ORD02353,C00872,2024-03-21,5,"Very happy with the Toyota Hilux Double Cab, runs perfectly.",Google
+REV01194,ORD02354,C01146,2025-06-11,2,"AC faulty on delivery, still waiting for a fix.",Email Survey
+REV01195,ORD02355,C00437,2026-01-31,3,Car is okay but delivery took longer than quoted.,Google
+REV01196,ORD02357,C01198,2023-11-14,1,"AC faulty on delivery, still waiting for a fix.",Facebook
+REV01197,ORD02358,C00532,2026-08-26,4,Fair price compared to other importers.,WhatsApp
+REV01198,ORD02359,C00023,2026-03-06,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01199,ORD02360,C00544,2024-11-26,4,Smooth process from order to delivery.,Website
+REV01200,ORD02363,C00151,2026-01-07,3,"Fine overall, would have liked more updates.",Website
+REV01201,ORD02364,C00218,2026-02-15,2,Mileage seems higher than on the auction sheet.,Google
+REV01202,ORD02365,C00641,2026-03-21,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV01203,ORD02370,C00307,2026-07-09,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01204,ORD02372,C00290,2025-08-06,4,"Very happy with the Honda Fit, runs perfectly.",Facebook
+REV01205,ORD02373,C00083,2026-04-04,4,"Car arrived in great condition, exactly as described. Asante sana!",Google
+REV01206,ORD02374,C00717,2024-08-24,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01207,ORD02377,C00621,2024-10-01,5,Good communication throughout the shipping.,Google
+REV01208,ORD02381,C00771,2024-08-28,2,"Waited too long for registration, very frustrating. Cause given: documentation error.",Google
+REV01209,ORD02382,C00024,2024-07-18,4,Good communication throughout the shipping.,Google
+REV01210,ORD02383,C00969,2023-05-15,4,"Car arrived in great condition, exactly as described.",Website
+REV01211,ORD02385,C00036,2025-11-26,2,Mileage seems higher than on the auction sheet.,Google
+REV01212,ORD02387,C00023,2025-11-29,4,Good communication throughout the shipping.,Facebook
+REV01213,ORD02390,C00717,2024-05-30,4,Smooth process from order to delivery.,WhatsApp
+REV01214,ORD02391,C00940,2023-06-02,3,Car is okay but delivery took longer than quoted.,Google
+REV01215,ORD02395,C00851,2025-10-06,2,"AC faulty on delivery, still waiting for a fix.",WhatsApp
+REV01216,ORD02397,C01156,2025-06-01,5,"Car arrived in great condition, exactly as described.",Google
+REV01217,ORD02399,C01009,2024-03-31,4,Smooth process from order to delivery.,Website
+REV01218,ORD02402,C01117,2023-09-02,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV01219,ORD02404,C01006,2026-10-16,3,"Fine overall, would have liked more updates.",Google
+REV01220,ORD02405,C00293,2023-06-03,1,Mileage seems higher than on the auction sheet.,Website
+REV01221,ORD02410,C00618,2026-03-18,4,Mileage matched the auction sheet. Honest dealer. Ni gari safi sana.,Google
+REV01222,ORD02411,C00465,2025-12-23,3,Car is okay but delivery took longer than quoted.,Google
+REV01223,ORD02412,C00924,2025-11-18,3,"  Decent car, paperwork took a while at KRA.  ",Website
+REV01224,ORD02413,C00338,2023-11-09,4,"Very happy with the Volkswagen Golf, runs perfectly.",WhatsApp
+REV01225,ORD02415,C00879,2025-07-07,2,"Had to pay extra at port, was not told upfront.",Google
+REV01226,ORD02417,C00580,2024-12-03,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01227,ORD02419,C01015,2024-03-07,2/5,"Had to pay extra at port, was not told upfront.",Website
+REV01228,ORD02421,C00968,2025-10-03,4,Smooth process from order to delivery.,Email Survey
+REV01229,ORD02424,C00951,2025-05-14,5,  Fair price compared to other importers.  ,Website
+REV01230,ORD02426,C00462,2023-08-26,2,Mileage seems higher than on the auction sheet. Cause given: strike action.,Email Survey
+REV01231,ORD02427,C00373,2026-07-11,5,"Car arrived in great condition, exactly as described.",Website
+REV01232,ORD02432,C00342,2026-08-16,4/5,"Very happy with the Subaru Impreza, runs perfectly.",Website
+REV01233,ORD02433,C00539,2024-04-25,4,"Car arrived in great condition, exactly as described.",Facebook
+REV01234,ORD02436,C00062,2026-07-31,1,"Shipping delayed by weeks, no updates from the sales team.",Website
+REV01235,ORD02437,C01122,2024-07-04,4,Good communication throughout the shipping.,WhatsApp
+REV01236,ORD02439,C00321,2024-06-03,5,Mileage matched the auction sheet. Honest dealer.,Facebook
+REV01237,ORD02440,C00576,2026-09-23,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01238,ORD02441,C00701,2024-05-08,1,Mileage seems higher than on the auction sheet. Cause given: port congestion.,WhatsApp
+REV01239,ORD02444,C00402,2026-06-07,5,Fair price compared to other importers.,Email Survey
+REV01240,ORD02446,C01138,2024-11-04,4,"Car arrived in great condition, exactly as described.",Website
+REV01241,ORD02447,C00369,2026-04-27,3,"Fine overall, would have liked more updates.",WhatsApp
+REV01242,ORD02449,C00248,2024-02-05,5,Smooth process from order to delivery.,WhatsApp
+REV01243,ORD02452,C00849,2025-05-30,3,"Fine overall, would have liked more updates.",Website
+REV01244,ORD02454,C00728,2024-10-08,5,,Google
+REV01245,ORD02456,C00099,2026-05-13,2,Mileage seems higher than on the auction sheet. Ni gari safi sana.,Email Survey
+REV01246,ORD02457,C00426,2023-10-13,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01247,ORD02459,C00072,2025-09-22,2,Mileage seems higher than on the auction sheet.,Website
+REV01248,ORD02461,C00851,2023-06-21,3,"Fine overall, would have liked more updates.",Google
+REV01249,ORD02463,C00296,2025-09-12,5,Smooth process from order to delivery.,WhatsApp
+REV01250,ORD02464,C00813,2026-06-26,2,"Had to pay extra at port, was not told upfront. Asante sana!",Google
+REV01251,ORD02467,C00747,2025-12-21,2,"Waited too long for registration, very frustrating. Cause given: customs inspection.",Website
+REV01252,ORD02468,C00417,2024-09-08,4,Smooth process from order to delivery.,Google
+REV01253,ORD02469,C00917,2024-06-08,5,"Very happy with the Nissan X-Trail, runs perfectly.",Website
+REV01254,ORD02470,C00565,2024-11-09,5,Smooth process from order to delivery.,Google
+REV01255,ORD02472,C00273,2026-08-24,5,Fair price compared to other importers. Asante sana!,Google
+REV01256,ORD02474,C01018,2024-04-12,4,Fair price compared to other importers.,Website
+REV01257,ORD02477,C00295,2024-06-13,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01258,ORD02480,C00951,2026-10-17,5,Good communication throughout the shipping.,Email Survey
+REV01259,ORD02482,C00954,2024-11-20,4,"Car arrived in great condition, exactly as described.",Website
+REV01260,ORD02488,C00899,2023-10-12,4,"Car arrived in great condition, exactly as described.",Facebook
+REV01261,ORD02489,C01101,2024-06-14,5,Fair price compared to other importers.,Website
+REV01262,ORD02490,C00938,2026-09-04,5,"Very happy with the Toyota Passo, runs perfectly.",Facebook
+REV01263,ORD02492,C00133,2026-07-16,4,Smooth process from order to delivery.,Email Survey
+REV01264,ORD02493,C00819,2024-06-01,4,Good communication throughout the shipping.,Facebook
+REV01265,ORD02494,C00262,2026-08-03,3,Car is okay but delivery took longer than quoted.,Facebook
+REV01266,ORD02496,C01177,2024-03-20,3,Car is okay but delivery took longer than quoted.,Website
+REV01267,ORD02498,C00624,2025-04-25,5,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01268,ORD02503,C00472,2026-03-14,5,"Very happy with the Mazda Demio, runs perfectly.",Email Survey
+REV01269,ORD02504,C00742,2025-07-16,3,Price was fair but a few scratches not mentioned. Cause given: transshipment delay.,Google
+REV01270,ORD02506,C01094,2024-12-19,5,"Car arrived in great condition, exactly as described.",Facebook
+REV01271,ORD02507,C01177,2023-09-01,4,"Very happy with the Isuzu D-Max, runs perfectly.",Email Survey
+REV01272,ORD02513,C00323,2026-08-22,5,Smooth process from order to delivery.,Facebook
+REV01273,ORD02515,C00875,2023-10-13,3,"Fine overall, would have liked more updates.",Email Survey
+REV01274,ORD02516,C01008,2025-07-22,4,"Very happy with the Nissan Juke, runs perfectly.",Website
+REV01275,ORD02517,C01052,2025-03-16,5,"Very happy with the Honda Vezel, runs perfectly.",Google
+REV01276,ORD02518,C00923,2026-08-26,2,"Had to pay extra at port, was not told upfront.",Facebook
+REV01277,ORD02519,C01075,2025-10-14,3,"Fine overall, would have liked more updates. Cause given: customs inspection.",Website
+REV01278,ORD02521,C01138,2025-12-15,1,"Waited too long for registration, very frustrating. Cause given: strike action.",Google
+REV01279,ORD02523,C00610,2024-08-14,4,"Very happy with the Mazda Demio, runs perfectly.",Google
+REV01280,ORD02526,C00154,2026-04-11,3,"Decent car, paperwork took a while at KRA.",WhatsApp
+REV01281,ORD02527,C00448,2024-06-04,4,Good communication throughout the shipping. Poa kabisa.,Website
+REV01282,ORD02528,C00136,2024-02-05,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV01283,ORD02529,C00062,2026-05-07,5,Fair price compared to other importers.,Facebook
+REV01284,ORD02530,C00709,2024-12-13,4,Smooth process from order to delivery.,Facebook
+REV01285,ORD02532,C00040,2025-05-03,3,Car is okay but delivery took longer than quoted.,Google
+REV01286,ORD02536,C01091,2026-08-09,1,"Had to pay extra at port, was not told upfront.",Website
+REV01287,ORD02537,C00685,2026-11-04,2,"Shipping delayed by weeks, no updates from the sales team.",Email Survey
+REV01288,ORD02538,C00855,2025-07-30,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV01289,ORD02539,C00449,2024-03-12,5,Fair price compared to other importers.,Email Survey
+REV01290,ORD02541,C00273,2024-11-01,1,"Had to pay extra at port, was not told upfront.",Facebook
+REV01291,ORD02544,C00957,2025-11-01,4,Smooth process from order to delivery.,Website
+REV01292,ORD02548,C00052,2024-04-25,5,Smooth process from order to delivery.,Website
+REV01293,ORD02549,C00858,2026-09-05,2/5,"Shipping delayed by weeks, no updates from the sales team. Cause given: transshipment delay.",WhatsApp
+REV01294,ORD02556,C00973,2025-08-25,5,"Car arrived in great condition, exactly as described.",Google
+REV01295,ORD02557,C00838,2026-02-24,1/5,"Shipping delayed by weeks, no updates from the sales team.",WhatsApp
+REV01296,ORD02558,C00117,2024-07-05,4,Fair price compared to other importers.,Google
+REV01297,ORD02559,C01075,2026-06-10,4,Fair price compared to other importers.,Google
+REV01298,ORD02560,C00398,2024-06-06,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV01299,ORD02562,C00246,2025-09-29,1,"Waited too long for registration, very frustrating.",WhatsApp
+REV01300,ORD02563,C00286,2025-01-06,3,Price was fair but a few scratches not mentioned.,Google
+REV01301,ORD02565,C00040,2023-12-12,3,"Fine overall, would have liked more updates.",Google
+REV01302,ORD02566,C00813,2025-09-25,2,"Had to pay extra at port, was not told upfront. Cause given: kra system downtime.",Website
+REV01303,ORD02571,C01015,2026-04-23,1,"Had to pay extra at port, was not told upfront.",Google
+REV01304,ORD02572,C00785,2025-12-22,3,"Fine overall, would have liked more updates.",Facebook
+REV01305,ORD02574,C00686,2024-05-18,2,"Had to pay extra at port, was not told upfront.",Website
+REV01306,ORD02577,C00277,2026-06-07,5,Fair price compared to other importers.,WhatsApp
+REV01307,ORD02580,C00566,2026-03-08,4,Fair price compared to other importers.,Google
+REV01308,ORD02583,C00900,2025-06-09,2,"AC faulty on delivery, still waiting for a fix.",Google
+REV01309,ORD02585,C00684,2023-09-30,4,Good communication throughout the shipping.,Google
+REV01310,ORD02586,C00490,2024-08-16,1/5,"Had to pay extra at port, was not told upfront.",Facebook
+REV01311,ORD02587,C00185,2025-04-22,3,"Fine overall, would have liked more updates.",Google
+REV01312,ORD02589,C00516,2026-08-28,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV01313,ORD02590,C00024,2024-03-04,5,"Very happy with the BMW X5, runs perfectly.",Google
+REV01314,ORD02592,C00095,2024-08-25,3,"Fine overall, would have liked more updates.",Facebook
+REV01315,ORD02593,C00418,2025-06-18,4,Good communication throughout the shipping.,Website
+REV01316,ORD02597,C00771,2024-03-08,3,"Fine overall, would have liked more updates. Cause given: strike action.",Google
+REV01317,ORD02598,C00782,2026-03-29,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01318,ORD02600,C00154,2024-01-03,4,Good communication throughout the shipping.,Google
+REV01319,ORD02601,C00968,2025-03-07,1,Mileage seems higher than on the auction sheet. Cause given: vessel rescheduled. Sio mbaya.,Email Survey
+REV01320,ORD02602,C00782,2026-05-01,2,Mileage seems higher than on the auction sheet. Asante sana!,Website
+REV01321,ORD02603,C01158,2025-11-23,5,Smooth process from order to delivery.,Google
+REV01322,ORD02604,C00734,2024-10-20,3,"Fine overall, would have liked more updates.",Email Survey
+REV01323,ORD02605,C00724,2024-07-22,5,Fair price compared to other importers.,Facebook
+REV01324,ORD02607,C00283,2023-06-11,5,"Very happy with the Toyota Axio, runs perfectly.",Google
+REV01325,ORD02611,C00852,2025-08-18,5,Smooth process from order to delivery.,Email Survey
+REV01326,ORD02612,C00181,2024-05-19,3,"Fine overall, would have liked more updates.",Google
+REV01327,ORD02614,C01044,2025-08-28,5,Good communication throughout the shipping.,Facebook
+REV01328,ORD02615,C00507,2026-11-04,5,Fair price compared to other importers.,Facebook
+REV01329,ORD02616,C00087,2025-08-05,3,"Decent car, paperwork took a while at KRA.",Website
+REV01330,ORD02617,C00287,2025-02-28,5,Fair price compared to other importers.,Website
+REV01331,ORD02620,C00872,2025-08-03,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01332,ORD02621,C00730,2026-07-24,3,Price was fair but a few scratches not mentioned.,Google
+REV01333,ORD02624,C00074,2023-09-03,3,"Decent car, paperwork took a while at KRA.",Website
+REV01334,ORD02625,C01174,2025-10-17,4,Fair price compared to other importers.,Website
+REV01335,ORD02626,C00688,2025-03-28,5,"Very happy with the Nissan Note, runs perfectly.",Website
+REV01336,ORD02633,C00021,2024-04-18,5,Mileage matched the auction sheet. Honest dealer. Poa kabisa.,Facebook
+REV01337,ORD02634,C00321,2026-11-01,1,"Had to pay extra at port, was not told upfront.",Website
+REV01338,ORD02636,C01164,2023-05-02,3,"Fine overall, would have liked more updates. Cause given: transshipment delay.",Website
+REV01339,ORD02637,C00060,2026-05-30,4,Fair price compared to other importers.,Website
+REV01340,ORD02642,C00455,2024-05-26,2,"Waited too long for registration, very frustrating. Cause given: kra system downtime.",Google
+REV01341,ORD02646,C00253,2023-08-13,4,Good communication throughout the shipping.,Email Survey
+REV01342,ORD02648,C00509,2024-04-14,3,"Fine overall, would have liked more updates.",Website
+REV01343,ORD02651,C00013,2024-03-01,4,"Very happy with the Suzuki Swift, runs perfectly.",Website
+REV01344,ORD02656,C01087,2023-07-28,4,Good communication throughout the shipping.,Website
+REV01345,ORD02657,C00214,2023-07-06,3,,Email Survey
+REV01346,ORD02661,C00125,2026-03-30,3,Car is okay but delivery took longer than quoted.,WhatsApp
+REV01347,ORD02662,C00369,2026-01-06,5/5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01348,ORD02665,C00429,2026-05-06,4,"Car arrived in great condition, exactly as described.",Google
+REV01349,ORD02666,C00905,2026-10-04,4,Smooth process from order to delivery.,Google
+REV01350,ORD02671,C01162,2024-10-06,4,Good communication throughout the shipping.,Email Survey
+REV01351,ORD02672,C00923,2026-07-10,2,"Waited too long for registration, very frustrating. Cause given: kra system downtime.",Facebook
+REV01352,ORD02673,C00716,2024-08-23,5,Smooth process from order to delivery.,Website
+REV01353,ORD02675,C00105,2025-12-10,4,"Car arrived in great condition, exactly as described.",Website
+REV01354,ORD02677,C01117,2024-11-07,5,  Smooth process from order to delivery.  ,Facebook
+REV01355,ORD02678,C00005,2026-11-04,5,"Very happy with the Honda Vezel, runs perfectly. Poa kabisa.",Google
+REV01356,ORD02679,C00418,2026-01-17,2,"AC faulty on delivery, still waiting for a fix.",Website
+REV01357,ORD02680,C00663,2026-07-09,3,Car is okay but delivery took longer than quoted.,Website
+REV01358,ORD02685,C01156,2025-03-04,4,Good communication throughout the shipping.,WhatsApp
+REV01359,ORD02687,C01080,2025-12-03,3,"Fine overall, would have liked more updates. Cause given: port congestion.",Facebook
+REV01360,ORD02692,C00989,2025-03-28,2,"Had to pay extra at port, was not told upfront.",Website
+REV01361,ORD02693,C00297,2025-11-06,4,Smooth process from order to delivery.,WhatsApp
+REV01362,ORD02701,C00023,2026-10-22,4,"Very happy with the Toyota Harrier, runs perfectly.",Website
+REV01363,ORD02702,C00767,2025-01-15,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV01364,ORD02704,C00869,2024-05-27,1,Mileage seems higher than on the auction sheet.,Google
+REV01365,ORD02705,C00301,2023-07-26,4,Smooth process from order to delivery.,WhatsApp
+REV01366,ORD02707,C00643,2026-02-20,3,,Google
+REV01367,ORD02709,C01012,2023-12-23,4,"Very happy with the Subaru Impreza, runs perfectly.",Google
+REV01368,ORD02710,C01116,2026-02-22,4,Smooth process from order to delivery.,Google
+REV01369,ORD02711,C00860,2026-10-30,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01370,ORD02713,C00610,2024-02-22,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV01371,ORD02715,C00838,2026-11-04,5,"Very happy with the Land Rover Range Rover Sport, runs perfectly.",Email Survey
+REV01372,ORD02719,C00032,2023-11-01,4,"Very happy with the Mitsubishi Outlander, runs perfectly.",Email Survey
+REV01373,ORD02720,C00490,2024-08-16,4,Fair price compared to other importers.,Facebook
+REV01374,ORD02722,C00231,2023-05-22,4,Smooth process from order to delivery.,Google
+REV01375,ORD02723,C00022,2026-09-08,1,"Had to pay extra at port, was not told upfront.",Website
+REV01376,ORD02724,C00592,2026-07-17,3,"Decent car, paperwork took a while at KRA. Cause given: strike action.",Google
+REV01377,ORD02725,C00099,2026-08-02,4/5,Good communication throughout the shipping.,WhatsApp
+REV01378,ORD02728,C00392,2026-05-25,5,Good communication throughout the shipping. Poa kabisa.,Facebook
+REV01379,ORD02731,C00172,2024-06-01,5,Smooth process from order to delivery.,Google
+REV01380,ORD02733,C00619,2025-10-01,1,Mileage seems higher than on the auction sheet.,Google
+REV01381,ORD02734,C00278,2023-07-25,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV01382,ORD02737,C01103,2023-11-01,4,Good communication throughout the shipping.,WhatsApp
+REV01383,ORD02741,C00847,2024-10-18,3,"Decent car, paperwork took a while at KRA.",Google
+REV01384,ORD02742,C00723,2025-02-25,3,Price was fair but a few scratches not mentioned. Asante sana!,Email Survey
+REV01385,ORD02743,C00140,2024-10-02,5,Fair price compared to other importers.,Facebook
+REV01386,ORD02744,C01057,2026-02-19,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01387,ORD02746,C00684,2023-08-16,4,"Very happy with the Isuzu D-Max, runs perfectly.",Google
+REV01388,ORD02747,C00768,2025-07-27,4,"Car arrived in great condition, exactly as described.",Google
+REV01389,ORD02751,C00605,2023-05-24,3,Car is okay but delivery took longer than quoted.,Website
+REV01390,ORD02752,C01197,2026-10-15,3,"Fine overall, would have liked more updates. Sio mbaya.",Website
+REV01391,ORD02754,C00168,2023-10-09,4,Good communication throughout the shipping.,Email Survey
+REV01392,ORD02755,C00103,2025-09-19,4,"Very happy with the Nissan X-Trail, runs perfectly.",Google
+REV01393,ORD02758,C01174,2024-05-22,4,"Car arrived in great condition, exactly as described.",Website
+REV01394,ORD02760,C00290,2025-12-16,4,,Website
+REV01395,ORD02762,C01033,2026-11-04,3,Car is okay but delivery took longer than quoted.,Email Survey
+REV01396,ORD02763,C00876,2026-02-28,2,"Had to pay extra at port, was not told upfront. Sio mbaya.",WhatsApp
+REV01397,ORD02765,C00832,2025-07-25,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV01398,ORD02771,C00025,2026-10-03,3,Car is okay but delivery took longer than quoted. Cause given: port congestion.,Google
+REV01399,ORD02773,C00845,2024-10-06,1,"AC faulty on delivery, still waiting for a fix.",Google
+REV01400,ORD02778,C00519,2025-12-09,4,Fair price compared to other importers.,Email Survey
+REV01401,ORD02781,C00392,2026-11-04,3,Car is okay but delivery took longer than quoted. Cause given: strike action.,Email Survey
+REV01402,ORD02782,C00103,2025-09-29,1,Mileage seems higher than on the auction sheet.,WhatsApp
+REV01403,ORD02783,C00922,2025-10-07,2,"Shipping delayed by weeks, no updates from the sales team.",Google
+REV01404,ORD02785,C00344,2025-01-27,3,"Decent car, paperwork took a while at KRA.",Google
+REV01405,ORD02790,C01052,2024-07-18,5,Smooth process from order to delivery.,Website
+REV01406,ORD02791,C00827,2026-11-04,4,Good communication throughout the shipping.,Google
+REV01407,ORD02792,C00560,2025-08-16,3,Price was fair but a few scratches not mentioned.,Website
+REV01408,ORD02794,C00133,2026-06-11,4,Good communication throughout the shipping.,Facebook
+REV01409,ORD02795,C00153,2023-10-18,3,,Google
+REV01410,ORD02796,C00275,2025-01-17,2,"Had to pay extra at port, was not told upfront.",Google
+REV01411,ORD02798,C01153,2025-12-26,5,Good communication throughout the shipping.,Google
+REV01412,ORD02800,C00758,2023-08-13,2,"AC faulty on delivery, still waiting for a fix.",Google
+REV01413,ORD02801,C01004,2026-10-09,4,"Very happy with the Isuzu D-Max, runs perfectly.",Website
+REV01414,ORD02802,C00881,2023-12-03,4,"Very happy with the Mercedes-Benz C200, runs perfectly.",Google
+REV01415,ORD02805,C00323,2023-09-16,3,"Fine overall, would have liked more updates.",Website
+REV01416,ORD02807,C00032,2024-02-10,3,Car is okay but delivery took longer than quoted.,Google
+REV01417,ORD02809,C00831,2025-02-19,5,"Very happy with the Toyota Harrier, runs perfectly.",Facebook
+REV01418,ORD02810,C00785,2024-11-15,5,"Car arrived in great condition, exactly as described. Poa kabisa.",Website
+REV01419,ORD02812,C00343,2025-01-06,5,"Car arrived in great condition, exactly as described.",Facebook
+REV01420,ORD02816,C00187,2024-01-16,5,Smooth process from order to delivery.,Email Survey
+REV01421,ORD02818,C00381,2026-08-03,5,"Car arrived in great condition, exactly as described.",Website
+REV01422,ORD02821,C00824,2023-10-18,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01423,ORD02826,C00273,2023-11-15,5,"Car arrived in great condition, exactly as described. Sio mbaya.",Website
+REV01424,ORD02827,C00641,2026-06-18,3,"Decent car, paperwork took a while at KRA.",Website
+REV01425,ORD02828,C00079,2023-11-07,5,Fair price compared to other importers.,Google
+REV01426,ORD02829,C01176,2023-09-28,3,Price was fair but a few scratches not mentioned.,Website
+REV01427,ORD02830,C00659,2023-11-03,3,Price was fair but a few scratches not mentioned. Cause given: port congestion.,Facebook
+REV01428,ORD02831,C00279,2026-06-24,3,Car is okay but delivery took longer than quoted. Cause given: transshipment delay.,Google
+REV01429,ORD02833,C00025,2026-09-02,4,Good communication throughout the shipping.,Website
+REV01430,ORD02836,C01102,2024-04-28,5,Smooth process from order to delivery.,Website
+REV01431,ORD02837,C00327,2026-09-16,4,"Very happy with the Toyota Hilux Double Cab, runs perfectly.",Website
+REV01432,ORD02839,C00346,2025-10-27,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV01433,ORD02843,C00273,2025-05-28,4,"Very happy with the Toyota Axio, runs perfectly.",Email Survey
+REV01434,ORD02845,C00437,2023-09-06,5,Smooth process from order to delivery.,Email Survey
+REV01435,ORD02847,C00708,2023-12-12,2,"Shipping delayed by weeks, no updates from the sales team.",Google
+REV01436,ORD02853,C00342,2025-02-25,2,"Shipping delayed by weeks, no updates from the sales team.",WhatsApp
+REV01437,ORD02855,C00418,2026-09-12,4,Smooth process from order to delivery.,Google
+REV01438,ORD02857,C00614,2025-10-31,4,Fair price compared to other importers.,WhatsApp
+REV01439,ORD02858,C00541,2023-06-29,4,"Car arrived in great condition, exactly as described.",Facebook
+REV01440,ORD02859,C00199,2026-10-24,5,Smooth process from order to delivery.,Website
+REV01441,ORD02861,C00552,2024-04-03,2,"Waited too long for registration, very frustrating. Cause given: documentation error.",Email Survey
+REV01442,ORD02863,C00962,2026-09-04,2,"Waited too long for registration, very frustrating. Cause given: vessel rescheduled.",Email Survey
+REV01443,ORD02865,C01030,2024-08-29,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV01444,ORD02869,C00726,2024-06-02,2,"Shipping delayed by weeks, no updates from the sales team. Cause given: bad weather.",Google
+REV01445,ORD02870,C00093,2026-01-21,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV01446,ORD02873,C00693,2025-05-07,2,"Had to pay extra at port, was not told upfront.",Website
+REV01447,ORD02874,C00773,2025-02-17,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01448,ORD02879,C00774,2025-11-29,4,"Very happy with the Mitsubishi Outlander, runs perfectly.",Facebook
+REV01449,ORD02880,C00527,2025-12-17,5,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV01450,ORD02882,C00010,2023-12-19,3,"Fine overall, would have liked more updates.",Google
+REV01451,ORD02883,C01091,2025-11-09,2,"Had to pay extra at port, was not told upfront.",Email Survey
+REV01452,ORD02885,C00546,2025-06-08,4,Smooth process from order to delivery.,Website
+REV01453,ORD02886,C00833,2024-02-19,3,Price was fair but a few scratches not mentioned.,Facebook
+REV01454,ORD02891,C01052,2025-08-24,4,Fair price compared to other importers.,WhatsApp
+REV01455,ORD02894,C00459,2025-12-16,4,Smooth process from order to delivery.,Facebook
+REV01456,ORD02895,C00685,2026-04-25,2,"Shipping delayed by weeks, no updates from the sales team.",WhatsApp
+REV01457,ORD02897,C00919,2023-09-19,1,"Waited too long for registration, very frustrating. Cause given: vessel rescheduled. Poa kabisa.",Website
+REV01458,ORD02899,C00370,2025-05-25,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV01459,ORD02900,C00576,2023-11-26,4,Mileage matched the auction sheet. Honest dealer. Ni gari safi sana.,Email Survey
+REV01460,ORD02902,C00744,2025-12-04,5,Smooth process from order to delivery.,Website
+REV01461,ORD02903,C00288,2025-11-21,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV01462,ORD02904,C00053,2025-10-05,5,"Very happy with the Mitsubishi Outlander, runs perfectly.",Google
+REV01463,ORD02906,C00147,2023-09-11,4,"Very happy with the Nissan Juke, runs perfectly.",Facebook
+REV01464,ORD02907,C00166,2026-11-04,4,Good communication throughout the shipping.,Website
+REV01465,ORD02908,C01044,2023-08-25,4,Fair price compared to other importers.,Google
+REV01466,ORD02910,C01148,2023-08-29,5,"Very happy with the Honda Vezel, runs perfectly.",Email Survey
+REV01467,ORD02911,C00165,2025-06-03,4,Good communication throughout the shipping.,Website
+REV01468,ORD02912,C00172,2024-03-20,3,Price was fair but a few scratches not mentioned. Ni gari safi sana.,WhatsApp
+REV01469,ORD02914,C00591,2026-01-25,2,"Had to pay extra at port, was not told upfront.",Website
+REV01470,ORD02916,C00848,2025-07-20,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01471,ORD02917,C00381,2025-06-01,2,"Had to pay extra at port, was not told upfront.",Google
+REV01472,ORD02918,C01004,2024-09-16,5,"Very happy with the Nissan Note, runs perfectly.",Website
+REV01473,ORD02919,C00278,2026-09-16,2,"Had to pay extra at port, was not told upfront.",Website
+REV01474,ORD02928,C00035,2025-01-15,5,Fair price compared to other importers.,Email Survey
+REV01475,ORD02934,C00433,2024-09-18,4,"Very happy with the Honda Fit, runs perfectly.",Google
+REV01476,ORD02936,C00254,2023-05-11,4,Fair price compared to other importers.,Google
+REV01477,ORD02938,C00953,2026-03-30,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01478,ORD02941,C01113,2025-01-10,4,Smooth process from order to delivery.,Google
+REV01479,ORD02943,C00782,2025-07-23,5,Good communication throughout the shipping.,Google
+REV01480,ORD02944,C00418,2024-07-23,4,Good communication throughout the shipping.,WhatsApp
+REV01481,ORD02945,C00967,2024-02-04,3,Car is okay but delivery took longer than quoted. Cause given: documentation error.,Website
+REV01482,ORD02948,C01052,2024-09-26,2,Mileage seems higher than on the auction sheet.,Google
+REV01483,ORD02949,C00709,2025-01-28,5,Good communication throughout the shipping.,Facebook
+REV01484,ORD02954,C00482,2026-08-07,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV01485,ORD02956,C00342,2024-12-06,5,Smooth process from order to delivery.,WhatsApp
+REV01486,ORD02962,C00034,2023-10-13,1/5,"AC faulty on delivery, still waiting for a fix.",Facebook
+REV01487,ORD02963,C00724,2025-10-22,5,"Car arrived in great condition, exactly as described.",Google
+REV01488,ORD02965,C00297,2026-06-05,4,Fair price compared to other importers. Ni gari safi sana.,Website
+REV01489,ORD02967,C00968,2026-06-02,5,Smooth process from order to delivery.,Email Survey
+REV01490,ORD02968,C00117,2026-03-31,2/5,"Had to pay extra at port, was not told upfront.",Facebook
+REV01491,ORD02969,C00751,2026-02-11,1,"Had to pay extra at port, was not told upfront.",WhatsApp
+REV01492,ORD02971,C00342,2023-05-07,5,"Very happy with the Honda Fit, runs perfectly.",Website
+REV01493,ORD02972,C00032,2023-05-18,4,Smooth process from order to delivery.,WhatsApp
+REV01494,ORD02974,C00681,2025-12-02,3,"Fine overall, would have liked more updates.",Website
+REV01495,ORD02975,C00398,2025-05-26,5,"Very happy with the Toyota Fielder, runs perfectly. Poa kabisa.",Email Survey
+REV01496,ORD02976,C01015,2023-04-26,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01497,ORD02977,C00944,2023-12-24,4,"Very happy with the Nissan X-Trail, runs perfectly.",WhatsApp
+REV01498,ORD02980,C00991,2024-11-01,3/5,Price was fair but a few scratches not mentioned.,Website
+REV01499,ORD02981,C00795,2026-01-13,4,"Car arrived in great condition, exactly as described.",Facebook
+REV01500,ORD02983,C00194,2023-10-19,4,"Car arrived in great condition, exactly as described.",Facebook
+REV01501,ORD02985,C00522,2026-05-13,5,"Very happy with the Toyota Passo, runs perfectly.",Website
+REV01502,ORD02986,C00527,2025-11-01,5,Smooth process from order to delivery.,Google
+REV01503,ORD02988,C00626,2025-05-29,5,Smooth process from order to delivery.,Website
+REV01504,ORD02990,C00044,2026-02-18,3,"Fine overall, would have liked more updates.",Facebook
+REV01505,ORD02992,C00018,2023-09-06,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV01506,ORD02993,C00576,2024-05-12,5,Fair price compared to other importers.,Google
+REV01507,ORD02994,C01091,2026-01-20,4,"Very happy with the Nissan Juke, runs perfectly.",Website
+REV01508,ORD02995,C00736,2026-11-03,4,Fair price compared to other importers.,WhatsApp
+REV01509,ORD02996,C00022,2025-07-27,5,Good communication throughout the shipping. Poa kabisa.,WhatsApp
+REV01510,ORD02997,C01170,2025-09-03,4,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV01511,ORD03000,C00687,2025-08-06,4,"Car arrived in great condition, exactly as described.",Website
+REV01512,ORD03002,C01162,2026-09-01,5,Good communication throughout the shipping. Asante sana!,Email Survey
+REV01513,ORD03003,C00565,2026-04-08,4,"Very happy with the Honda Fit, runs perfectly. Poa kabisa.",WhatsApp
+REV01514,ORD03005,C00646,2026-09-04,3,Car is okay but delivery took longer than quoted. Cause given: kra system downtime.,Website
+REV01515,ORD03007,C00750,2026-08-19,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01516,ORD03008,C00221,2023-09-04,3,"Decent car, paperwork took a while at KRA.",Website
+REV01517,ORD03012,C01070,2025-06-22,3,"Fine overall, would have liked more updates.",Facebook
+REV01518,ORD03013,C00238,2025-10-15,4,Good communication throughout the shipping.,Google
+REV01519,ORD03014,C00345,2025-01-21,3,"Fine overall, would have liked more updates. Cause given: kra system downtime.",WhatsApp
+REV01520,ORD03019,C00328,2026-03-13,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV01521,ORD03020,C00419,2025-06-01,5,"Very happy with the Nissan Juke, runs perfectly.",Google
+REV01522,ORD03021,C00592,2026-03-25,5,"Very happy with the BMW X5, runs perfectly.",Google
+REV01523,ORD03023,C00551,2025-09-04,5,Good communication throughout the shipping.,Facebook
+REV01524,ORD03024,C00305,2026-11-04,3,"Fine overall, would have liked more updates.",Google
+REV01525,ORD03025,C00264,2024-03-29,4,"Very happy with the Toyota Fielder, runs perfectly. Sio mbaya.",Google
+REV01526,ORD03027,C00210,2026-03-25,5,Smooth process from order to delivery.,Facebook
+REV01527,ORD03028,C01149,2026-04-18,5,Fair price compared to other importers.,WhatsApp
+REV01528,ORD03029,C00276,2024-01-31,2,"AC faulty on delivery, still waiting for a fix.",Email Survey
+REV01529,ORD03031,C00023,2023-06-23,4,"Very happy with the Toyota Noah, runs perfectly.",Email Survey
+REV01530,ORD03032,C00520,2024-11-29,3,"Fine overall, would have liked more updates.",Google
+REV01531,ORD03033,C01182,2026-09-16,3,Car is okay but delivery took longer than quoted. Cause given: kra system downtime.,Google
+REV01532,ORD03034,C00221,2026-02-02,5,"Very happy with the Subaru Impreza, runs perfectly.",Google
+REV01533,ORD03036,C00023,2026-03-14,4,"Car arrived in great condition, exactly as described.",Website
+REV01534,ORD03040,C00905,2026-07-14,3,"Fine overall, would have liked more updates.",Website
+REV01535,ORD03044,C00391,2023-07-24,5,"Very happy with the BMW X5, runs perfectly.",Facebook
+REV01536,ORD03045,C00172,2024-04-20,5,Good communication throughout the shipping.,Website
+REV01537,ORD03049,C01065,2025-09-07,5,Good communication throughout the shipping.,Website
+REV01538,ORD03051,C00276,2024-04-10,3,Car is okay but delivery took longer than quoted. Cause given: port congestion.,Website
+REV01539,ORD03052,C00890,2024-06-01,3,Car is okay but delivery took longer than quoted. Cause given: bad weather.,Google
+REV01540,ORD03053,C00851,2025-01-12,5,"Very happy with the Nissan X-Trail, runs perfectly.",Google
+REV01541,ORD03054,C00181,2023-10-20,1,"Waited too long for registration, very frustrating.",Website
+REV01542,ORD03057,C00976,2026-10-16,3,"Decent car, paperwork took a while at KRA.",Facebook
+REV01543,ORD03058,C01158,2026-08-17,5,Mileage matched the auction sheet. Honest dealer. Poa kabisa.,Google
+REV01544,ORD03059,C00105,2024-02-11,5,Fair price compared to other importers.,Website
+REV01545,ORD03060,C00765,2026-03-15,2/5,"Waited too long for registration, very frustrating.",WhatsApp
+REV01546,ORD03061,C00374,2026-06-14,4,Good communication throughout the shipping.,Email Survey
+REV01547,ORD03062,C00504,2025-06-18,4,"Very happy with the Nissan Note, runs perfectly.",WhatsApp
+REV01548,ORD03063,C00951,2023-04-15,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV01549,ORD03065,C00751,2025-04-29,4,Fair price compared to other importers.,Website
+REV01550,ORD03066,C00893,2024-05-14,2,"Shipping delayed by weeks, no updates from the sales team.",Email Survey
+REV01551,ORD03067,C00954,2026-06-22,5,"Car arrived in great condition, exactly as described.",Facebook
+REV01552,ORD03069,C00856,2024-07-08,5,Fair price compared to other importers.,Google
+REV01553,ORD03070,C00840,2026-11-04,4,Fair price compared to other importers.,Facebook
+REV01554,ORD03073,C00312,2026-03-21,3,"Decent car, paperwork took a while at KRA. Cause given: documentation error.",Facebook
+REV01555,ORD03074,C00210,2026-06-05,5,Smooth process from order to delivery.,Website
+REV01556,ORD03076,C00324,2025-01-01,1,Mileage seems higher than on the auction sheet.,Website
+REV01557,ORD03078,C00883,2026-06-27,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV01558,ORD03080,C00297,2024-11-26,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01559,ORD03082,C00052,2025-03-20,5,Good communication throughout the shipping.,Website
+REV01560,ORD03086,C00380,2025-11-24,4,Fair price compared to other importers.,Google
+REV01561,ORD03087,C00619,2025-12-18,4,Good communication throughout the shipping.,WhatsApp
+REV01562,ORD03088,C01075,2026-09-04,5,Smooth process from order to delivery. Ni gari safi sana.,Facebook
+REV01563,ORD03089,C00247,2024-06-09,5,Mileage matched the auction sheet. Honest dealer.,WhatsApp
+REV01564,ORD03091,C00172,2023-07-26,4,Smooth process from order to delivery. Poa kabisa.,Website
+REV01565,ORD03093,C01038,2026-10-10,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01566,ORD03094,C00462,2026-11-04,2,Mileage seems higher than on the auction sheet.,Google
+REV01567,ORD03095,C00566,2025-07-11,3,Price was fair but a few scratches not mentioned.,Google
+REV01568,ORD03099,C00773,2026-01-05,4,Mileage matched the auction sheet. Honest dealer.,Website
+REV01569,ORD03102,C00818,2026-04-13,4,"Car arrived in great condition, exactly as described.",WhatsApp
+REV01570,ORD03103,C01193,2026-03-25,3,"Fine overall, would have liked more updates.",Website
+REV01571,ORD03105,C00237,2024-11-14,4,"Very happy with the Mazda Demio, runs perfectly. Poa kabisa.",Facebook
+REV01572,ORD03106,C00355,2025-06-04,1,"Had to pay extra at port, was not told upfront.",Email Survey
+REV01573,ORD03108,C00792,2025-10-05,3,"Decent car, paperwork took a while at KRA.",Google
+REV01574,ORD03110,C00938,2026-11-04,4,Mileage matched the auction sheet. Honest dealer.,Email Survey
+REV01575,ORD03111,C01012,2025-04-23,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV01576,ORD03112,C00477,2025-10-18,3,"Fine overall, would have liked more updates.",Website
+REV01577,ORD03114,C00246,2023-11-11,5,"Very happy with the Volkswagen Golf, runs perfectly.",WhatsApp
+REV01578,ORD03115,C00214,2026-09-27,3,"Decent car, paperwork took a while at KRA.",Google
+REV01579,ORD03118,C00052,2026-06-11,3,"Decent car, paperwork took a while at KRA. Cause given: kra system downtime. Sio mbaya.",Google
+REV01580,ORD03120,C00153,2023-05-24,1,"Waited too long for registration, very frustrating.",WhatsApp
+REV01581,ORD03124,C00794,2026-11-04,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV01582,ORD03125,C00424,2025-03-27,3,Price was fair but a few scratches not mentioned.,Website
+REV01583,ORD03126,C00321,2025-06-04,5,Good communication throughout the shipping.,WhatsApp
+REV01584,ORD03127,C01012,2026-05-19,4,Mileage matched the auction sheet. Honest dealer.,Google
+REV01585,ORD03128,C00812,2024-05-08,1,"Waited too long for registration, very frustrating. Cause given: strike action.",Website
+REV01586,ORD03129,C01008,2023-12-25,3,Car is okay but delivery took longer than quoted.,Website
+REV01587,ORD03130,C00010,2023-04-06,5,Mileage matched the auction sheet. Honest dealer.,Website
+REV01588,ORD03131,C00666,2026-06-22,4,"Car arrived in great condition, exactly as described.",Website
+REV01589,ORD03133,C00506,2024-09-14,5,"Car arrived in great condition, exactly as described. Sio mbaya.",Facebook
+REV01590,ORD03134,C01197,2023-07-20,4,Fair price compared to other importers.,Facebook
+REV01591,ORD03137,C00851,2026-01-15,2,"Had to pay extra at port, was not told upfront.",Website
+REV01592,ORD03140,C01182,2026-03-13,5,Good communication throughout the shipping.,Facebook
+REV01593,ORD03142,C00321,2026-01-16,4,"Very happy with the Toyota Fielder, runs perfectly.",Google
+REV01594,ORD03143,C00175,2024-11-11,5,Mileage matched the auction sheet. Honest dealer.,Google
+REV01595,ORD03144,C00214,2026-01-27,5,"Car arrived in great condition, exactly as described.",Email Survey
+REV01596,ORD03145,C01027,2026-01-09,2,"Waited too long for registration, very frustrating.",Website
+REV01597,ORD03146,C00983,2023-11-28,4,Smooth process from order to delivery.,Email Survey
+REV01598,ORD03148,C00204,2024-09-24,4,Smooth process from order to delivery.,Email Survey
+REV01599,ORD03149,C01052,2025-06-30,3,"Decent car, paperwork took a while at KRA. Cause given: bad weather.",Website
+REV01600,ORD03150,C00129,2026-08-14,5,Fair price compared to other importers. Poa kabisa.,Website
+REV01601,ORD03152,C00344,2025-02-04,5,"Car arrived in great condition, exactly as described. Poa kabisa.",WhatsApp
+REV01602,ORD03153,C00311,2025-08-16,3,"Decent car, paperwork took a while at KRA.",Email Survey
+REV01603,ORD03159,C00083,2026-07-11,3,"Fine overall, would have liked more updates.",Email Survey
+REV01604,ORD03162,C01081,2026-11-04,5,Smooth process from order to delivery.,Google
+REV01605,ORD03165,C01150,2025-12-11,3,"Fine overall, would have liked more updates. Cause given: transshipment delay.",Website
+REV01606,ORD03166,C00087,2024-01-03,3,Car is okay but delivery took longer than quoted.,Facebook
+REV01607,ORD03168,C00372,2026-03-22,4,"Car arrived in great condition, exactly as described.",Website
+REV01608,ORD03172,C00254,2026-10-29,5,Fair price compared to other importers.,Facebook
+REV01609,ORD03174,C00700,2026-02-15,1,"AC faulty on delivery, still waiting for a fix.",Website
+REV01610,ORD03180,C00493,2026-02-21,4,"Car arrived in great condition, exactly as described.",Facebook
+REV01611,ORD03181,C00290,2024-07-28,2,"Had to pay extra at port, was not told upfront.",WhatsApp
+REV01612,ORD03183,C01138,2025-08-25,5,"Car arrived in great condition, exactly as described.",Google
+REV01613,ORD03184,C00808,2026-03-19,2,"Shipping delayed by weeks, no updates from the sales team.",Facebook
+REV01614,ORD03185,C00104,2026-06-12,4,Good communication throughout the shipping.,Website
+REV01615,ORD03187,C00645,2026-06-05,3,"Fine overall, would have liked more updates.",WhatsApp
+REV01616,ORD03188,C00537,2026-09-18,4,"Very happy with the Nissan Note, runs perfectly.",Facebook
+REV01617,ORD03189,C00180,2025-03-28,5,Fair price compared to other importers.,Facebook
+REV01618,ORD03190,C00285,2026-09-07,2,"Waited too long for registration, very frustrating.",Google
+REV01619,ORD03195,C00936,2023-04-19,5,Smooth process from order to delivery.,Facebook
+REV01620,ORD03196,C00570,2025-11-17,2/5,"Shipping delayed by weeks, no updates from the sales team. Cause given: strike action.",Google
+REV01621,ORD03197,C00786,2024-11-05,4,"Very happy with the Toyota Axio, runs perfectly.",WhatsApp
+REV01622,ORD03199,C00217,2024-11-01,2,"Waited too long for registration, very frustrating.",WhatsApp
+REV00988,ORD01954,C00145,2026-09-27,4,"Very happy with the Nissan Note, runs perfectly.",Google
+REV00684,ORD01378,C00433,2026-03-02,3,Price was fair but a few scratches not mentioned. Poa kabisa.,Website
+REV00276,ORD00538,C00842,2026-03-03,2,"Waited too long for registration, very frustrating.",Google
+REV01562,ORD03088,C01075,2026-09-04,5,Smooth process from order to delivery. Ni gari safi sana.,Facebook
+REV01341,ORD02646,C00253,2023-08-13,4,Good communication throughout the shipping.,Email Survey
+REV00767,ORD01530,C00849,2024-06-12,3,Price was fair but a few scratches not mentioned. Cause given: kra system downtime.,Google
+REV01293,ORD02549,C00858,2026-09-05,2/5,"Shipping delayed by weeks, no updates from the sales team. Cause given: transshipment delay.",WhatsApp
+REV00913,ORD01802,C00891,2026-04-14,3,"Fine overall, would have liked more updates.",Facebook
+REV00577,ORD01179,C01179,2023-07-12,4,"Car arrived in great condition, exactly as described.",Facebook
+REV00816,ORD01615,C00131,2024-01-19,3,Car is okay but delivery took longer than quoted. Ni gari safi sana.,Facebook
